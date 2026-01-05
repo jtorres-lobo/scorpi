@@ -1,0 +1,347 @@
+{
+  "sections": {
+    "product": {
+      "type": "product",
+      "blocks": {
+        "badges": {
+          "type": "badges",
+          "settings": {
+            "sale_badge": true,
+            "product_badges": true,
+            "padding_bottom": 8
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading_option": "none",
+            "heading_font_size": "heading-small",
+            "padding_bottom": 8
+          }
+        },
+        "klaviyo_reviews_average_rating_VyegKe": {
+          "type": "shopify:\/\/apps\/klaviyo-reviews\/blocks\/average-rating\/db20e365-d984-4ac4-9655-e1588d951ca9",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "text_font_size": "body-x-large",
+            "padding_bottom": 8
+          }
+        },
+        "siblings": {
+          "type": "siblings",
+          "settings": {
+            "siblings_collection": "",
+            "sibling_color": "",
+            "option_font_size": "body-medium",
+            "value_font_size": "body-x-small",
+            "padding_bottom": 16
+          }
+        },
+        "variants": {
+          "type": "variants",
+          "settings": {
+            "info_page": "ring-size-guide",
+            "size_chart_style": "question",
+            "option_font_size": "body-medium",
+            "value_font_size": "body-x-small",
+            "padding_bottom": 16
+          }
+        },
+        "inventory_countdown": {
+          "type": "inventory_countdown",
+          "settings": {
+            "show_notice": "always",
+            "max_inventory": 10,
+            "show_inventory_counter": false,
+            "icon_size": 20,
+            "in_stock_color": "#56ad6a",
+            "low_stock_color": "#f79554",
+            "out_of_stock_color": "#721c24",
+            "padding_bottom": 24
+          }
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {
+            "show_quantity": true,
+            "button_type": "btn--black",
+            "button_size": "btn--large",
+            "button_style": "btn--solid",
+            "show_dynamic_checkout": false,
+            "button_type_dynamic": "btn--secondary",
+            "button_size_dynamic": "btn--large",
+            "button_style_dynamic": "btn--solid",
+            "show_gift_card_recipient": false,
+            "padding_bottom": 32
+          }
+        },
+        "icon": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-truck",
+            "icon_size": 20,
+            "icon_color": "",
+            "text": "<p>Despacho a todo Chile<\/p>",
+            "text_font_size": "body-small",
+            "width": "full",
+            "padding_bottom": 8
+          }
+        },
+        "icon-0": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-recycle",
+            "icon_size": 20,
+            "icon_color": "",
+            "text": "<p>Cambios y devoluciones gratis<\/p>",
+            "text_font_size": "body-small",
+            "width": "full",
+            "padding_bottom": 8
+          }
+        },
+        "icon-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-donation",
+            "icon_size": 20,
+            "icon_color": "",
+            "text": "<p>Calidad profesional Scorpi<\/p>",
+            "text_font_size": "body-small",
+            "width": "full",
+            "padding_bottom": 8
+          }
+        },
+        "icon-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-flare",
+            "icon_size": 20,
+            "icon_color": "",
+            "text": "<p>Diseñado para el trabajo clínico<\/p>",
+            "text_font_size": "body-small",
+            "width": "full",
+            "padding_bottom": 16
+          }
+        },
+        "divider_6Wc7U7": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "tab_richtext_iJEMpD": {
+          "type": "tab_richtext",
+          "settings": {
+            "show_description": true,
+            "show_read_more": false,
+            "title_1": "Cambios y Devoluciones gratis",
+            "raw_content_1": "<p><strong>¡Compra en Scorpi sin preocupaciones!<\/strong><\/p><p>Sabemos que elegir la talla o el estilo perfecto puede ser complicado, ¡pero en Scorpi te lo hacemos fácil! Disfruta de <strong>cambios y devoluciones completamente GRATIS<\/strong>.<\/p><p>Revisa términos y condiciones<em><strong> <\/strong><\/em><a href=\"https:\/\/www.scorpi.cl\/pages\/cambios-y-devoluciones\" title=\"aqui\"><em><strong>aqui<\/strong><\/em><\/a><\/p>",
+            "title_2": "Compras Mayoristas",
+            "raw_content_2": "<p>🎉 <strong>¡Descuentos exclusivos en compras al por mayor!<\/strong> 🎉<\/p><p>Para más información contáctanos<strong> <\/strong><a href=\"https:\/\/www.scorpi.cl\/pages\/cotizacion-instituciones-y-grupos\" target=\"_blank\" title=\"https:\/\/www.scorpi.cl\/pages\/cotizacion-instituciones-y-grupos\"><strong>aquí<\/strong><\/a><\/p>",
+            "title_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "raw_content_5": "",
+            "padding_bottom": 0
+          }
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "upsell": {
+          "type": "upsell",
+          "settings": {
+            "upsell_product": "",
+            "upsell_product_list": [
+              "pantalon-hombre-sport-stretch",
+              "mix-3-calcetines",
+              "pantalon-hombre-scorpi-wonder"
+            ],
+            "show_available_upsell_only": true,
+            "layout": "stacked",
+            "autoplay": false,
+            "autoplay_speed": 8,
+            "bg_color": "",
+            "padding_bottom": 24
+          }
+        },
+        "divider-0": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "badges",
+        "title",
+        "klaviyo_reviews_average_rating_VyegKe",
+        "price",
+        "siblings",
+        "variants",
+        "inventory_countdown",
+        "buttons",
+        "icon",
+        "icon-0",
+        "icon-1",
+        "icon-2",
+        "divider_6Wc7U7",
+        "tab_richtext_iJEMpD",
+        "divider",
+        "upsell",
+        "divider-0"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "variant_image_scroll": true,
+        "show_cart_bar": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "image_layout": "thumbnails",
+        "image_size": "small",
+        "mobile_image_style": "slider",
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 80
+      }
+    },
+    "section_look_RbbrrC": {
+      "type": "section-look",
+      "blocks": {
+        "product_9Ua6pQ": {
+          "type": "product",
+          "settings": {
+            "product": "top-hombre-uniformes-clinicos-comfort",
+            "show_product_card": false,
+            "position_x": 50,
+            "position_y": 37
+          }
+        },
+        "product_aMWLNq": {
+          "type": "product",
+          "settings": {
+            "product": "pantalon-hombre-dynamic",
+            "show_product_card": false,
+            "position_x": 45,
+            "position_y": 60
+          }
+        },
+        "product_XhWVqh": {
+          "type": "product",
+          "settings": {
+            "product": "calcetines-compresion",
+            "show_product_card": false,
+            "position_x": 45,
+            "position_y": 75
+          }
+        },
+        "product_CBEh4R": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "show_product_card": false,
+            "position_x": 50,
+            "position_y": 50
+          }
+        }
+      },
+      "block_order": [
+        "product_9Ua6pQ",
+        "product_aMWLNq",
+        "product_XhWVqh",
+        "product_CBEh4R"
+      ],
+      "name": "Shop the look",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Scorpi-uniformes-medicos-stretch-hombre-negro-9.jpg",
+        "layout": "",
+        "title": "Shop the look",
+        "heading": "",
+        "heading_font_size": "heading-large",
+        "show_dots": true,
+        "products_per_row": "1",
+        "enable_slider": false,
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--outline",
+        "show_arrow": false,
+        "enable_aspect_ratio": true,
+        "image_aspect_ratio": 1,
+        "color_scheme": "",
+        "dot_color": "rgba(0,0,0,0)",
+        "dot_background": "rgba(0,0,0,0)",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "heading_tag": "automatic"
+      }
+    },
+    "176600164967333a7f": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_reviews_product_reviews_H6yQWW": {
+          "type": "shopify:\/\/apps\/klaviyo-reviews\/blocks\/product-reviews\/db20e365-d984-4ac4-9655-e1588d951ca9",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "klaviyo_reviews_product_reviews_H6yQWW"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
+    "related": {
+      "type": "related",
+      "blocks": {
+        "related-0": {
+          "type": "related",
+          "settings": {
+            "product_recommendations_heading": "Productos Relacionados"
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "product_recently_heading": "Vistos recientemente"
+          }
+        }
+      },
+      "block_order": [
+        "related-0",
+        "recent"
+      ],
+      "settings": {
+        "enable_tabs": true,
+        "heading_alignment": "text-center",
+        "heading_font_size": "heading-small",
+        "limit": 4,
+        "layout_desktop": "slider",
+        "grid": 4,
+        "rows": 3,
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "product",
+    "section_look_RbbrrC",
+    "176600164967333a7f",
+    "related"
+  ]
+}

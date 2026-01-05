@@ -1,0 +1,651 @@
+{
+  "sections": {
+    "section_slideshow_kpetpG": {
+      "type": "section-slideshow",
+      "blocks": {
+        "image_TMRECY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Work_Mujer_Morado_4_942e0a42-c3fe-4050-bdfc-bb411e4a0a96.jpg",
+            "image_link": "",
+            "title": "Soluciones en uniformes para instituciones de salud",
+            "heading_font_size": "heading-large",
+            "description": "Vestimos equipos completos con calidad, consistencia y soporte profesional.",
+            "text_font_size": "body-large",
+            "first_button_text": "",
+            "first_button_link": "",
+            "first_button_type": "btn--primary",
+            "first_button_size": "",
+            "first_button_style": "btn--solid",
+            "first_button_show_arrow": false,
+            "second_button_text": "",
+            "second_button_link": "",
+            "second_button_type": "btn--primary",
+            "second_button_size": "",
+            "second_button_style": "btn--solid",
+            "second_button_show_arrow": false,
+            "flex_align_desktop": "align--middle-right-desktop",
+            "flex_align_mobile": "align--middle-center-mobile",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "",
+            "overlay_type": "disabled",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_TMRECY"
+      ],
+      "name": "Slideshow (Legacy)",
+      "settings": {
+        "transition": "slide",
+        "show_arrows": true,
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "width": "wrapper--full",
+        "height": "screen-height-two-thirds",
+        "content_width": 35,
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_double_BJJr6W": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_DDEErc": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Pensado para equipos",
+            "padding_bottom": 16
+          }
+        },
+        "heading_CTMzMy": {
+          "type": "heading",
+          "settings": {
+            "title": "Uniformes clínicos para organizaciones exigentes",
+            "heading_font_size": "heading-large",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_rNjKYW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Trabajamos junto a clínicas, hospitales y centros de salud para ofrecer uniformes durables, cómodos y coherentes con la identidad de cada institución. Desde pequeñas dotaciones hasta grandes equipos.<\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_DDEErc",
+        "heading_CTMzMy",
+        "text_rNjKYW"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES9587_802ea900-b577-4b7f-b992-c4c47c02efaf.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "layout": "",
+        "width": "wrapper--full",
+        "height": "screen-height-full",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "scheme-6",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_press_logos_jwkegg": {
+      "type": "section-press-logos",
+      "blocks": {
+        "logo_item_header_Xr7fnT": {
+          "type": "logo-item-header",
+          "settings": {
+            "logo_width": 100,
+            "link": "",
+            "text": "",
+            "heading_font_size": "heading-small"
+          }
+        },
+        "logo_item_header_87xAyg": {
+          "type": "logo-item-header",
+          "settings": {
+            "logo_width": 100,
+            "link": "",
+            "text": "",
+            "heading_font_size": "heading-small"
+          }
+        },
+        "logo_item_header_Q68tKH": {
+          "type": "logo-item-header",
+          "settings": {
+            "logo_width": 100,
+            "link": "",
+            "text": "",
+            "heading_font_size": "heading-small"
+          }
+        },
+        "logo_item_header_JVPx4B": {
+          "type": "logo-item-header",
+          "settings": {
+            "logo_width": 100,
+            "link": "",
+            "text": "",
+            "heading_font_size": "heading-small"
+          }
+        },
+        "logo_item_header_h3yTJz": {
+          "type": "logo-item-header",
+          "settings": {
+            "logo_width": 100,
+            "link": "",
+            "text": "",
+            "heading_font_size": "heading-small"
+          }
+        },
+        "logo_item_header_8pHXyz": {
+          "type": "logo-item-header",
+          "settings": {
+            "logo_width": 100,
+            "link": "",
+            "text": "",
+            "heading_font_size": "heading-small"
+          }
+        }
+      },
+      "block_order": [
+        "logo_item_header_Xr7fnT",
+        "logo_item_header_87xAyg",
+        "logo_item_header_Q68tKH",
+        "logo_item_header_JVPx4B",
+        "logo_item_header_h3yTJz",
+        "logo_item_header_8pHXyz"
+      ],
+      "name": "Press logos",
+      "settings": {
+        "enable_heading_slider": true,
+        "logo_opacity": 60,
+        "title": "Instituciones que confían en Scorpi para vestir a sus equipos de salud.",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_double_9LheUJ": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_yYhQ6W": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Diseñado para crecer contigo",
+            "padding_bottom": 16
+          }
+        },
+        "heading_HCRkh4": {
+          "type": "heading",
+          "settings": {
+            "title": "Sé distribuidor Scorpi",
+            "heading_font_size": "heading-large",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_dxGQ8K": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Forma parte de nuestra red de distribuidores y lleva uniformes clínicos de alto rendimiento a más profesionales. Accede a precios preferenciales, soporte comercial y productos reconocidos por su calidad y diseño.<\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_yYhQ6W",
+        "heading_HCRkh4",
+        "text_dxGQ8K"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES5353_1.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "layout": "is-reversed",
+        "width": "wrapper--full",
+        "height": "screen-height-full",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_text_row_9bfBDh": {
+      "type": "section-text-row",
+      "blocks": {
+        "icon_aeHwM9": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-check-circle",
+            "icon_size": 20,
+            "icon_color": "",
+            "title": "Compras institucionales seguras",
+            "heading_font_size": "heading-small",
+            "text": "<p>Procesos de compra claros, cotizaciones formales y pagos protegidos.<\/p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "icon_gRaWqz": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-smile",
+            "icon_size": 20,
+            "icon_color": "",
+            "title": "Proceso simple y asistido",
+            "heading_font_size": "heading-small",
+            "text": "<p>Te acompañamos en cada etapa, desde la cotización hasta la entrega.<\/p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "icon_LeCfyX": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-chat",
+            "icon_size": 20,
+            "icon_color": "",
+            "title": "Soporte dedicado",
+            "heading_font_size": "heading-small",
+            "text": "<p>Nuestro equipo está disponible para resolver dudas y coordinar pedidos institucionales.<\/p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "icon_aeHwM9",
+        "icon_gRaWqz",
+        "icon_LeCfyX"
+      ],
+      "name": "Text columns with icons",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "icon_alignment": "icon--top",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 3,
+        "layout_mobile": "slider",
+        "color_scheme": "scheme-6",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_collection_TnEUka": {
+      "type": "section-collection",
+      "name": "Featured collection",
+      "settings": {
+        "featured_collection": "todo-mujer-y-hombre",
+        "heading": "Uniformes más elegidos por instituciones",
+        "heading_font_size": "heading-small",
+        "description": "",
+        "text_font_size": "body-medium",
+        "layout": "inline",
+        "link_text": "Explorar más",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "layout_desktop": "slider",
+        "grid": 4,
+        "rows": 3,
+        "width": "wrapper",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_reviews_LTm6QM": {
+      "type": "section-reviews",
+      "blocks": {
+        "review_zwfPBG": {
+          "type": "review",
+          "settings": {
+            "title": "",
+            "subheading": "Coordinación Clínica, Santiago",
+            "review_content": "<p>Excelente calidad y tiempos de entrega claros. Pudimos uniformar a todo nuestro equipo sin complicaciones.<\/p>",
+            "featured_image": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES7525_a44c0429-6e5d-41b2-9afe-ffce148cbbff.jpg",
+            "review_url": ""
+          }
+        },
+        "review_pPjgHj": {
+          "type": "review",
+          "settings": {
+            "title": "",
+            "subheading": "Coordinación Clínica, Santiago",
+            "review_content": "<p>Excelente calidad y tiempos de entrega claros. Pudimos uniformar a todo nuestro equipo sin complicaciones.<\/p>",
+            "featured_image": "shopify:\/\/shop_images\/mujer.jpg",
+            "review_url": ""
+          }
+        },
+        "review_PVDWyT": {
+          "type": "review",
+          "settings": {
+            "title": "",
+            "subheading": "Centro Médico Privado",
+            "review_content": "<p>La comodidad y el calce marcaron la diferencia para nuestro personal de turnos largos.<\/p>",
+            "featured_image": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES5402_1_b844f679-48cf-4afb-a5a2-36f45d8c4515.jpg",
+            "review_url": ""
+          }
+        },
+        "review_bjyEQc": {
+          "type": "review",
+          "settings": {
+            "title": "",
+            "subheading": "Centro Médico Privado",
+            "review_content": "<p>La comodidad y el calce marcaron la diferencia para nuestro personal de turnos largos.<\/p>",
+            "featured_image": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES0636_1_802b80c3-2e6b-4eb3-a291-ce951e8f141f.jpg",
+            "review_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "review_zwfPBG",
+        "review_pPjgHj",
+        "review_PVDWyT",
+        "review_bjyEQc"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "show_featured_image": true,
+        "image_aspect_ratio": 1.3,
+        "show_quotation_marks": true,
+        "heading_font_size": "heading-small",
+        "text_align": "text-left",
+        "color_scheme": "",
+        "card_bg_color": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "section_hero_BcyQFe": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_Xtrjfr": {
+          "type": "heading",
+          "settings": {
+            "title": "Uniformar equipos nunca fue tan simple",
+            "heading_font_size": "heading-large",
+            "heading_tag": "automatic",
+            "padding_bottom": 8
+          }
+        },
+        "text_hEA6Ct": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Desde la selección de modelos hasta la entrega final, Scorpi te acompaña en todo el proceso.<\/p>",
+            "text_font_size": "body-large",
+            "padding_bottom": 8
+          }
+        }
+      },
+      "block_order": [
+        "heading_Xtrjfr",
+        "text_hEA6Ct"
+      ],
+      "name": "Image banner",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES1768_1.jpg",
+        "link": "",
+        "width": "wrapper--full",
+        "height": "screen-height-full",
+        "flex_align_desktop": "align--bottom-left-desktop",
+        "content_width": 39,
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "color_scheme": "scheme-6",
+        "show_text_background": false,
+        "overlay_type": "disabled",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_accordion_group_NiwHLA": {
+      "type": "section-accordion-group",
+      "blocks": {
+        "heading_D9a7eE": {
+          "type": "heading",
+          "settings": {
+            "title": "FAQ – Preguntas frecuentes"
+          }
+        },
+        "question_kTPFm4": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Trabajan con compras por volumen?",
+            "content": "<p>Sí. Ofrecemos precios preferenciales para compras institucionales y pedidos por volumen.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_WhtMqL": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Pueden personalizar los uniformes con logo?",
+            "content": "<p>Sí. Contamos con servicio de bordado para logos institucionales, sujeto a condiciones y tiempos específicos.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_3tiwkc": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Cuáles son los tiempos de entrega?",
+            "content": "<p>Dependen del volumen y personalización del pedido. Nuestro equipo te informará los plazos antes de confirmar la compra.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_EkHWg6": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Realizan envíos a todo Chile?",
+            "content": "<p>Sí, despachamos a todo Chile continental.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_D9a7eE",
+        "question_kTPFm4",
+        "question_WhtMqL",
+        "question_3tiwkc",
+        "question_EkHWg6"
+      ],
+      "name": "Accordion group",
+      "settings": {
+        "heading_font_size": "heading-small",
+        "question_font_size": "heading-x-small",
+        "width": "wrapper",
+        "columns": "1",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "contact_form_Wgj7Ti": {
+      "type": "contact-form",
+      "blocks": {
+        "text_VJQ6PT": {
+          "type": "text",
+          "settings": {
+            "title": "Nombre Completo",
+            "required": false
+          }
+        },
+        "email_3NfffH": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "required": true
+          }
+        },
+        "text_djWKcz": {
+          "type": "text",
+          "settings": {
+            "title": "Teléfono",
+            "required": false
+          }
+        },
+        "text_7P3qVa": {
+          "type": "text",
+          "settings": {
+            "title": "RUT",
+            "required": false
+          }
+        },
+        "text_JMnKnr": {
+          "type": "text",
+          "settings": {
+            "title": "Región",
+            "required": false
+          }
+        },
+        "text_PNhFpF": {
+          "type": "text",
+          "settings": {
+            "title": "Ciudad",
+            "required": false
+          }
+        },
+        "text_xzJmEq": {
+          "type": "text",
+          "settings": {
+            "title": "Comuna",
+            "required": false
+          }
+        },
+        "select_xGMBzq": {
+          "type": "select",
+          "settings": {
+            "title": "¿Vendes actualmente Uniformes Clínicos?",
+            "required": false,
+            "label-one": "Si",
+            "label-two": "NO",
+            "label-three": "",
+            "label-four": "",
+            "label-five": "",
+            "label-six": ""
+          }
+        },
+        "select_zzcHWC": {
+          "type": "select",
+          "settings": {
+            "title": "¿Tienes tienda física?",
+            "required": false,
+            "label-one": "Si",
+            "label-two": "NO",
+            "label-three": "",
+            "label-four": "",
+            "label-five": "",
+            "label-six": ""
+          }
+        },
+        "select_qizpKE": {
+          "type": "select",
+          "settings": {
+            "title": "¿Vendes por Internet?",
+            "required": false,
+            "label-one": "Si",
+            "label-two": "NO",
+            "label-three": "",
+            "label-four": "",
+            "label-five": "",
+            "label-six": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_VJQ6PT",
+        "email_3NfffH",
+        "text_djWKcz",
+        "text_7P3qVa",
+        "text_JMnKnr",
+        "text_PNhFpF",
+        "text_xzJmEq",
+        "select_xGMBzq",
+        "select_zzcHWC",
+        "select_qizpKE"
+      ],
+      "name": "Contact form",
+      "settings": {
+        "title": "Contáctanos para distribuir Scorpi",
+        "heading_font_size": "heading-small",
+        "terms": true,
+        "width": "wrapper--narrow",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "heading_tag": "automatic"
+      }
+    },
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "heading_font_size": "heading-medium",
+        "show_content": true,
+        "text_font_size": "body-small",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    }
+  },
+  "order": [
+    "section_slideshow_kpetpG",
+    "section_double_BJJr6W",
+    "section_press_logos_jwkegg",
+    "section_double_9LheUJ",
+    "section_text_row_9bfBDh",
+    "section_collection_TnEUka",
+    "section_reviews_LTm6QM",
+    "section_hero_BcyQFe",
+    "section_accordion_group_NiwHLA",
+    "contact_form_Wgj7Ti",
+    "main-page"
+  ]
+}

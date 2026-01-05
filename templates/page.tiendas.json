@@ -1,0 +1,553 @@
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "heading_font_size": "heading-medium",
+        "show_content": true,
+        "text_font_size": "body-small",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_multicolumn_ckewEt": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "image_overlay_9jKQFg": {
+          "type": "image-overlay",
+          "settings": {
+            "column_width": 33,
+            "image": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES5402_1.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Santiago",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "alignment": "align--bottom-left-desktop",
+            "button_text": "Ver tiendas",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "color": "",
+            "overlay_type": "disabled",
+            "heading_tag": "automatic"
+          }
+        },
+        "image_overlay_dGzHEy": {
+          "type": "image-overlay",
+          "settings": {
+            "column_width": 33,
+            "image": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES9587.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Viña del Mar",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "alignment": "align--bottom-left-desktop",
+            "button_text": "ver tiendas",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "color": "",
+            "overlay_type": "disabled",
+            "heading_tag": "automatic"
+          }
+        },
+        "image_overlay_AE3cti": {
+          "type": "image-overlay",
+          "settings": {
+            "column_width": 33,
+            "image": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES5353_1.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Temuco",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "alignment": "align--bottom-left-desktop",
+            "button_text": "ver tiendas",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "color": "",
+            "overlay_type": "disabled",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_overlay_9jKQFg",
+        "image_overlay_dGzHEy",
+        "image_overlay_AE3cti"
+      ],
+      "name": "Multi column",
+      "settings": {
+        "title": "Nuestras tiendas",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "slider",
+        "color_scheme": "scheme-6",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_rich_text_cwVRdC": {
+      "type": "section-rich-text",
+      "blocks": {
+        "subheading_QVHTC4": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "NUESTRAS TIENDAS",
+            "padding_bottom": 16
+          }
+        },
+        "heading_JyLqxP": {
+          "type": "heading",
+          "settings": {
+            "title": "SANTIAGO | RM",
+            "heading_font_size": "heading-small",
+            "padding_bottom": 20,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_cpzgaU": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>¿Tienes un código de descuento? <\/strong>Puedes usarlo en nuestras tiendas<\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 38
+          }
+        }
+      },
+      "block_order": [
+        "subheading_QVHTC4",
+        "heading_JyLqxP",
+        "text_cpzgaU"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-center",
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "overlay_type": "disabled",
+        "padding_top": 90,
+        "padding_bottom": 40
+      }
+    },
+    "section_double_8MX3dx": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_rqz7nn": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "SCORPI SANTIAGO",
+            "padding_bottom": 16
+          }
+        },
+        "heading_nkahqz": {
+          "type": "heading",
+          "settings": {
+            "title": "Irarrazabal",
+            "heading_font_size": "heading-medium",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_VzUVdJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Irarrázaval 200, Local 101 Ñuñoa<br\/>Entrada por Av. Bustamante. <br\/>Metro Irarrázaval  Líneas 3 y 5 <br\/><br\/>Lunes a Viernes: 10:30 a 18:45 hrs.<br\/>Sábado: 11:00 a 14:30 hrs.<br\/>Domingos y Festivos: Cerrado<\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        },
+        "buttons_qtBtXP": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Ver en google maps",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_rqz7nn",
+        "heading_nkahqz",
+        "text_VzUVdJ",
+        "buttons_qtBtXP"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Interior_Scorpi_Tobalaba.webp",
+        "image_width": "three-quarters",
+        "text_alignment": "text-left",
+        "layout": "is-reversed",
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_double_UKUiJR": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_VwzLHf": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "SCORPI SANTIAGO",
+            "padding_bottom": 16
+          }
+        },
+        "heading_JkRBRX": {
+          "type": "heading",
+          "settings": {
+            "title": "Providencia",
+            "heading_font_size": "heading-medium",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_FwdaWk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Providencia 903 Providencia <br\/> Metro Salvador Línea 1  <br\/><br\/>Lunes a Viernes: 10:30 a 18:45 hrs.<br\/>Sábado: 11:00 a 14:30 hrs.<br\/>Domingos y Festivos: Cerrado<br\/><br\/>Estacionamientos disponibles (pagados) por Jose Manuel Infante.<\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        },
+        "buttons_tGYcEU": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Ver en google maps",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_VwzLHf",
+        "heading_JkRBRX",
+        "text_FwdaWk",
+        "buttons_tGYcEU"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Frame_17.jpg",
+        "image_width": "three-quarters",
+        "text_alignment": "text-left",
+        "layout": "is-reversed",
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_double_WiArNG": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_LCHbJa": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "SCORPI SANTIAGO",
+            "padding_bottom": 16
+          }
+        },
+        "heading_wnyRmC": {
+          "type": "heading",
+          "settings": {
+            "title": "Tobalaba",
+            "heading_font_size": "heading-medium",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_MyVUHX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Providencia 2682  Providencia <br\/> Metro Tobalaba Líneas 1 y 4 <br\/><br\/>Lunes a Viernes: 10:30 a 18:45 hrs.<br\/>Sábado: 11:00 a 14:30 hrs.<br\/>Domingos y Festivos: Cerrado<br\/><br\/><\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        },
+        "buttons_ifdb7V": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Ver en google maps",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_LCHbJa",
+        "heading_wnyRmC",
+        "text_MyVUHX",
+        "buttons_ifdb7V"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Interior_Scorpi_Tobalaba.webp",
+        "image_width": "three-quarters",
+        "text_alignment": "text-left",
+        "layout": "is-reversed",
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_rich_text_iY7ERJ": {
+      "type": "section-rich-text",
+      "blocks": {
+        "heading_Y6iear": {
+          "type": "heading",
+          "settings": {
+            "title": "VIÑA DEL MAR",
+            "heading_font_size": "heading-small",
+            "padding_bottom": 20,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_8wA3dH": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>¿Tienes un código de descuento? <\/strong>Puedes usarlo en nuestras tiendas<\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 38
+          }
+        }
+      },
+      "block_order": [
+        "heading_Y6iear",
+        "text_8wA3dH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-center",
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "overlay_type": "disabled",
+        "padding_top": 90,
+        "padding_bottom": 40
+      }
+    },
+    "section_double_Qcxa68": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_DX97Uk": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "SCORPI VALPARAÍSO",
+            "padding_bottom": 16
+          }
+        },
+        "heading_YarViN": {
+          "type": "heading",
+          "settings": {
+            "title": "Viña del Mar",
+            "heading_font_size": "heading-medium",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_PDErHP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Calle Limache 1724 Viña del mar<br\/><br\/> Lunes a Viernes: 10:30 a 18:45 hrs.<br\/>Sábado: 11:00 a 14:30 hrs.<br\/>Domingos y Festivos: Cerrado<br\/><br\/><\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        },
+        "buttons_gGhwjn": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Ver en google maps",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_DX97Uk",
+        "heading_YarViN",
+        "text_PDErHP",
+        "buttons_gGhwjn"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Frame_17.jpg",
+        "image_width": "three-quarters",
+        "text_alignment": "text-left",
+        "layout": "is-reversed",
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_rich_text_VqMKCd": {
+      "type": "section-rich-text",
+      "blocks": {
+        "heading_FLHeEL": {
+          "type": "heading",
+          "settings": {
+            "title": "TEMUCO",
+            "heading_font_size": "heading-small",
+            "padding_bottom": 20,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_ygmH6R": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>¿Tienes un código de descuento? <\/strong>Puedes usarlo en nuestras tiendas<\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 38
+          }
+        }
+      },
+      "block_order": [
+        "heading_FLHeEL",
+        "text_ygmH6R"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-center",
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "overlay_type": "disabled",
+        "padding_top": 90,
+        "padding_bottom": 40
+      }
+    },
+    "section_double_LXNN7G": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_gUaKJ9": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "SCORPI VALPARAÍSO",
+            "padding_bottom": 16
+          }
+        },
+        "heading_6NFA3b": {
+          "type": "heading",
+          "settings": {
+            "title": "TEMUCO",
+            "heading_font_size": "heading-medium",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_eEkEhV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Calle Limache 1724 Viña del mar<br\/><br\/> Lunes a Viernes: 10:30 a 18:45 hrs.<br\/>Sábado: 11:00 a 14:30 hrs.<br\/>Domingos y Festivos: Cerrado<br\/><br\/><\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        },
+        "buttons_d6kTPz": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Ver en google maps",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_gUaKJ9",
+        "heading_6NFA3b",
+        "text_eEkEhV",
+        "buttons_d6kTPz"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Interior_Scorpi_Tobalaba.webp",
+        "image_width": "three-quarters",
+        "text_alignment": "text-left",
+        "layout": "is-reversed",
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "section_multicolumn_ckewEt",
+    "section_rich_text_cwVRdC",
+    "section_double_8MX3dx",
+    "section_double_UKUiJR",
+    "section_double_WiArNG",
+    "section_rich_text_iY7ERJ",
+    "section_double_Qcxa68",
+    "section_rich_text_VqMKCd",
+    "section_double_LXNN7G"
+  ]
+}

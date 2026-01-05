@@ -1,0 +1,1651 @@
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "heading_font_size": "heading-medium",
+        "show_content": true,
+        "text_font_size": "body-small",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_video_3bxKxQ": {
+      "type": "section-video",
+      "name": "Video",
+      "settings": {
+        "video": "shopify:\/\/files\/videos\/96ad0b2c-bf12-4b1a-b274-f7aa57c3c5f6.mp4",
+        "show_video_popup": false,
+        "video_popup_social": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "title": "Telas diseñadas para jornadas reales",
+        "heading_font_size": "heading-large",
+        "text": "<p>Desarrollamos telas técnicas que combinan comodidad, resistencia y rendimiento. Cada fibra, cada costura y cada tecnología está pensada para acompañarte durante turnos largos, movimientos constantes y el ritmo real del trabajo clínico.<\/p>",
+        "text_font_size": "body-medium",
+        "flex_align": "align--bottom-left",
+        "link_text": "",
+        "link": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "desktop_height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "width": "wrapper--full",
+        "color_scheme": "scheme-6",
+        "show_text_background": false,
+        "color": "",
+        "overlay_type": "disabled",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_multicolumn_XLXf3y": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "icon_8Exepw": {
+          "type": "icon",
+          "settings": {
+            "column_width": 25,
+            "icon_name": "icon-flare",
+            "icon_size": 20,
+            "icon_alignment": "icon--top",
+            "icon_color": "",
+            "title": "Ingeniería textil",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Diseñamos nuestras telas desde la fibra, optimizando elasticidad, suavidad y durabilidad para uso profesional intensivo.<\/p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "icon_RcKJmb": {
+          "type": "icon",
+          "settings": {
+            "column_width": 25,
+            "icon_name": "icon-smile",
+            "icon_size": 20,
+            "icon_alignment": "icon--top",
+            "icon_color": "",
+            "title": "Respirabilidad inteligente",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Estructuras que favorecen la circulación del aire y ayudan a mantener una sensación fresca durante todo el día.<\/p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "icon_UEgJG7": {
+          "type": "icon",
+          "settings": {
+            "column_width": 25,
+            "icon_name": "icon-lightning",
+            "icon_size": 20,
+            "icon_alignment": "icon--top",
+            "icon_color": "",
+            "title": "Protección antimicrobiana",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Tecnologías que ayudan a reducir bacterias y olores, manteniendo las prendas frescas por más tiempo.<\/p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "icon_h7mqeU": {
+          "type": "icon",
+          "settings": {
+            "column_width": 25,
+            "icon_name": "icon-droplet",
+            "icon_size": 20,
+            "icon_alignment": "icon--top",
+            "icon_color": "",
+            "title": "Fácil cuidado",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Telas que conservan su forma, color y rendimiento lavado tras lavado.<\/p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "icon_8Exepw",
+        "icon_RcKJmb",
+        "icon_UEgJG7",
+        "icon_h7mqeU"
+      ],
+      "name": "Multi column",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-mini",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "slider",
+        "color_scheme": "scheme-2",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_multicolumn_GApjJ8": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "image_pR9C9f": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10_OCT2207_4e1e4af5-1d88-45d0-91fc-2c30ec95fa85.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "R-AYONx™",
+            "heading_font_size": "heading-small",
+            "text": "<p>• 42% Poly<br\/>• 30% Rpoly<br\/>• 23% Rayon<br\/>• 5%   Spandex<\/p><p><br\/><\/p><p><br\/><\/p>",
+            "text_font_size": "body-large",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--black",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_pyERFx": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/1-HT-LT-Terracota_695455d7-6296-4d4d-9bd3-d0f58e97187c.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "TOP",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER TOPS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_dGbUcD": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10_OCT2193_270be6c5-dce7-447e-93fe-d5e6cae2c90e.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "PANTALÓN",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER PANTALÓNES",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_LLk3Er": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10_OCT1138_1_678f5f7f-13c6-4499-a586-2335687eb937.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "CONJUNTO",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER CONJUNTOS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_pR9C9f",
+        "image_pyERFx",
+        "image_dGbUcD",
+        "image_LLk3Er"
+      ],
+      "name": "Multi column",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 0,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_multicolumn_tnmPi3": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "image_gBafiY": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10OCT6917.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "R-HardTech™",
+            "heading_font_size": "heading-small",
+            "text": "<p>• 32% Cotton<br\/>• 3%   Spandex<\/p><p><\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--black",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_VLqfwD": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SportStrech_Mujer_Burdeo_2_8a3955e7-7a5d-451b-9fe7-b009db5a7d55.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "TOP",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER TOPS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_UYRW7w": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/Work_Mujer_Burdeo_7.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "PANTALÓN",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER PANTALÓNES",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_GW98Kw": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SportStrech_Mujer_Burdeo_1_60dfb91f-da23-4999-a8d3-7428f3897b4d.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "CONJUNTO",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER CONJUNTOS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_gBafiY",
+        "image_VLqfwD",
+        "image_UYRW7w",
+        "image_GW98Kw"
+      ],
+      "name": "Multi column",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_multicolumn_7dHi9i": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "image_mpx4gV": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10OCT6846.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "D-PolyTech™",
+            "heading_font_size": "heading-small",
+            "text": "<p>• 94% Polyester<br\/>• 6%   Spandex<\/p><p><\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--black",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_qp6GAp": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10OCT6825arreglar.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "TOP",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER TOPS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_phxKMU": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10OCT6835.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "PANTALÓN",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER PANTALÓNES",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_aF4EFi": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10OCT6825arreglar.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "CONJUNTO",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER CONJUNTOS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_mpx4gV",
+        "image_qp6GAp",
+        "image_phxKMU",
+        "image_aF4EFi"
+      ],
+      "name": "Multi column",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_multicolumn_WFNLNc": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "image_6knLLJ": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/PC__Hombre_Rey_WEB_3_db8dd411-fde3-4568-b32d-7016c08ce39b.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "NyTee™",
+            "heading_font_size": "heading-small",
+            "text": "<p>• 94% Polyester<br\/>• 6% Spandex<br\/><br\/><\/p><p><br\/><\/p>",
+            "text_font_size": "body-large",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--black",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_9BhdpJ": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10OCT6737.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "TOP",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER TOPS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_4Gd9qz": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/Scorpi15dediciembre7547_9828d925-4648-45dd-b647-c85a261a3fb7.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "PANTALÓN",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER PANTALÓNES",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_dVCdtH": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10OCT6748.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "CONJUNTO",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER CONJUNTOS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_6knLLJ",
+        "image_9BhdpJ",
+        "image_4Gd9qz",
+        "image_dVCdtH"
+      ],
+      "name": "Multi column",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 0,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_multicolumn_YckWhE": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "image_J9EW7G": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10_OCT2207_4e1e4af5-1d88-45d0-91fc-2c30ec95fa85.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "T-AYON dr™",
+            "heading_font_size": "heading-small",
+            "text": "<p>• 94% Polyester<br\/>• 6% Spandex<br\/><br\/><\/p><p><br\/><\/p>",
+            "text_font_size": "body-large",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--black",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_jdEkKF": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/1-HT-LT-Terracota_695455d7-6296-4d4d-9bd3-d0f58e97187c.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "TOP",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER TOPS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_qMUJbg": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10_OCT2193_270be6c5-dce7-447e-93fe-d5e6cae2c90e.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "PANTALÓN",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER PANTALÓNES",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_VBRwiA": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10_OCT1138_1_678f5f7f-13c6-4499-a586-2335687eb937.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "CONJUNTO",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER CONJUNTOS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_J9EW7G",
+        "image_jdEkKF",
+        "image_qMUJbg",
+        "image_VBRwiA"
+      ],
+      "name": "Multi column",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 0,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_multicolumn_P8THrN": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "image_yM7NTR": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10OCT6917.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "R-ULTRA™",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--black",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_3KYyVm": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SportStrech_Mujer_Burdeo_2_8a3955e7-7a5d-451b-9fe7-b009db5a7d55.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "TOP",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER TOPS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_jyB6C3": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/Work_Mujer_Burdeo_7.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "PANTALÓN",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER PANTALÓNES",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_D4pNF3": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SportStrech_Mujer_Burdeo_1_60dfb91f-da23-4999-a8d3-7428f3897b4d.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "CONJUNTO",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER CONJUNTOS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_yM7NTR",
+        "image_3KYyVm",
+        "image_jyB6C3",
+        "image_D4pNF3"
+      ],
+      "name": "Multi column",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_multicolumn_iMGpix": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "image_wKyAjn": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/Scorpi15dediciembre5270_6aed6b67-76fb-4ad8-a533-9692098bbb26.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "R-Freecycle™",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--black",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_qTbYkC": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/Scorpi_15_de_diciembre5314.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "TOP",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER TOPS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_AiREDW": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/Scorpi15dediciembre5251_d3d306c3-7510-4551-838c-ed2dc0ff621d.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "PANTALÓN",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER PANTALÓNES",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_TqXDxR": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/Scorpi15dediciembre5298_9a2d385e-fe65-4ca8-9ca5-8939a5f32f29.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "CONJUNTO",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER CONJUNTOS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_wKyAjn",
+        "image_qTbYkC",
+        "image_AiREDW",
+        "image_TqXDxR"
+      ],
+      "name": "Multi column",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_multicolumn_YCH9QV": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "image_cfqFVk": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10OCT6917.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "R-AYONx dry™",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--black",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_xA3ciH": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SportStrech_Mujer_Burdeo_2_8a3955e7-7a5d-451b-9fe7-b009db5a7d55.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "TOP",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER TOPS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_PwQLrT": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/Work_Mujer_Burdeo_7.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "PANTALÓN",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER PANTALÓNES",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_8mr8Tq": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SportStrech_Mujer_Burdeo_1_60dfb91f-da23-4999-a8d3-7428f3897b4d.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "CONJUNTO",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER CONJUNTOS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_cfqFVk",
+        "image_xA3ciH",
+        "image_PwQLrT",
+        "image_8mr8Tq"
+      ],
+      "name": "Multi column",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_multicolumn_tgCQCy": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "image_4HA33D": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SCORPI_10OCT6917.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "R-Harded™",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--black",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_cyyhNC": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SportStrech_Mujer_Burdeo_2_8a3955e7-7a5d-451b-9fe7-b009db5a7d55.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "TOP",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER TOPS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_mNynM7": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/Work_Mujer_Burdeo_7.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "PANTALÓN",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER PANTALÓNES",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_MgiN4A": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/SportStrech_Mujer_Burdeo_1_60dfb91f-da23-4999-a8d3-7428f3897b4d.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1.4,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "CONJUNTO",
+            "heading_font_size": "heading-mini",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "VER CONJUNTOS",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_4HA33D",
+        "image_cyyhNC",
+        "image_mNynM7",
+        "image_MgiN4A"
+      ],
+      "name": "Multi column",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_double_slider_4DwEPD": {
+      "type": "section-double-slider",
+      "blocks": {
+        "text_slide_DtffW6": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Nuestras Telas y Tecnologías",
+            "title": "COMFORT™",
+            "heading_font_size": "heading-large",
+            "text": "<p>Suave, ligera y flexible. Ideal para quienes priorizan comodidad sin sacrificar presentación profesional.<br\/><br\/><strong>Atributos:<\/strong><br\/><br\/>• Ultra suave<br\/>• Elasticidad en 4 direcciones<br\/>• Uso diario intensivo<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/Frame_13.jpg",
+            "heading_tag": "automatic"
+          }
+        },
+        "text_slide_cn6nae": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Nuestras Telas y Tecnologías",
+            "title": "SPORT STRETCH™",
+            "heading_font_size": "heading-large",
+            "text": "<p>Diseñada para moverse contigo. Acompaña cada movimiento sin rigidez ni tensión.<br\/><br\/><strong>Atributos:<\/strong><br\/><br\/>• Alta elasticidad<br\/>• Ajuste ergonómico<br\/>• Libertad total de movimiento<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/Frame_12.jpg",
+            "heading_tag": "automatic"
+          }
+        },
+        "text_slide_Pchrk6": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Nuestras Telas y Tecnologías",
+            "title": "WORK TECH™",
+            "heading_font_size": "heading-large",
+            "text": "<p>Pensada para largas jornadas y alto desgaste.<br\/><br\/><strong>Atributos:<\/strong><br\/><br\/>• Alta resistencia<br\/>• Mantiene su forma<br\/>• Ideal para turnos exigentes<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/AZUL-REY-HT-LT-4.jpg",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_DtffW6",
+        "text_slide_cn6nae",
+        "text_slide_Pchrk6"
+      ],
+      "disabled": true,
+      "name": "Image with text slider",
+      "settings": {
+        "image_width": "one-half",
+        "autoplay": true,
+        "autoplay_speed": 4,
+        "text_alignment": "text-left",
+        "layout": "",
+        "width": "wrapper--full",
+        "height": "screen-height-full",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_double_slider_LX6tJ9": {
+      "type": "section-double-slider",
+      "blocks": {
+        "text_slide_B3fQHt": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Tecnologías funcionales",
+            "title": "Tecnología Antimicrobiana",
+            "heading_font_size": "heading-large",
+            "text": "<p>Ayuda a reducir la proliferación de bacterias que generan olores, manteniendo la prenda fresca por más tiempo.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/SCORPI_10_OCT2570.jpg",
+            "heading_tag": "automatic"
+          }
+        },
+        "text_slide_xDBdeP": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Tecnologías funcionales",
+            "title": "Absorción de Humedad",
+            "heading_font_size": "heading-large",
+            "text": "<p>Favorece la evaporación del sudor para una sensación seca y cómoda durante toda la jornada.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/Work_Mujer_Negro_10_303ee7b8-58c9-423b-83b4-9a6a90b74550.jpg",
+            "heading_tag": "automatic"
+          }
+        },
+        "text_slide_M4y9wh": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Tecnologías funcionales",
+            "title": "Secado rápido",
+            "heading_font_size": "heading-large",
+            "text": "<p>Reduce tiempos de secado y mejora la experiencia de uso diario.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/PC__Mujer_Negro_WEB_6.jpg",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_B3fQHt",
+        "text_slide_xDBdeP",
+        "text_slide_M4y9wh"
+      ],
+      "disabled": true,
+      "name": "Image with text slider",
+      "settings": {
+        "image_width": "one-half",
+        "autoplay": true,
+        "autoplay_speed": 4,
+        "text_alignment": "text-left",
+        "layout": "is-reversed",
+        "width": "wrapper--full",
+        "height": "screen-height-full",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_double_slider_bPHDfw": {
+      "type": "section-double-slider",
+      "blocks": {
+        "text_slide_H4UqbA": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Diseño & construcción",
+            "title": "Elasticidad 360°",
+            "heading_font_size": "heading-large",
+            "text": "<p>La prenda se adapta al cuerpo sin restringir el movimiento.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/PC__Mujer_Gris_WEB_6_836d1c28-e0a3-46de-b894-f33acc23a69a.jpg",
+            "heading_tag": "automatic"
+          }
+        },
+        "text_slide_HQTDGd": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Diseño & construcción",
+            "title": "Costuras reforzadas",
+            "heading_font_size": "heading-large",
+            "text": "<p>Mayor durabilidad en zonas de alto desgaste.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/SCORPI_10_OCT2574_2fd17b08-4520-434c-840a-634097f5ebc9.jpg",
+            "heading_tag": "automatic"
+          }
+        },
+        "text_slide_rhyXAL": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Diseño & construcción",
+            "title": "Calce profesional",
+            "heading_font_size": "heading-large",
+            "text": "<p>Diseño pensado para verse bien y sentirse mejor, incluso después de horas de uso.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/Scorpi1deDiciembre9796f_a12b768c-2e29-488d-ace3-a484ebbdaf8b.jpg",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_H4UqbA",
+        "text_slide_HQTDGd",
+        "text_slide_rhyXAL"
+      ],
+      "disabled": true,
+      "name": "Image with text slider",
+      "settings": {
+        "image_width": "one-half",
+        "autoplay": true,
+        "autoplay_speed": 4,
+        "text_alignment": "text-left",
+        "layout": "is-reversed",
+        "width": "wrapper--full",
+        "height": "screen-height-full",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_double_slider_JMTpKm": {
+      "type": "section-double-slider",
+      "blocks": {
+        "text_slide_zpQkfG": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Diseño que acompaña tu jornada",
+            "title": "Estampados que expresan tu estilo",
+            "heading_font_size": "heading-large",
+            "text": "<p>Patrones exclusivos creados para sumar identidad, energía y personalidad a tu uniforme clínico, sin perder funcionalidad ni confort.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/SCORPI_10_OCT0101_1.jpg",
+            "heading_tag": "automatic"
+          }
+        },
+        "text_slide_XcAKGP": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Introducing",
+            "title": "Image with text slider",
+            "heading_font_size": "heading-large",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/SCORPI_10_OCT5134_1.jpg",
+            "heading_tag": "automatic"
+          }
+        },
+        "text_slide_h7Ggxy": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Introducing",
+            "title": "Image with text slider",
+            "heading_font_size": "heading-large",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/SCORPI_10_OCT8336_1.jpg",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_zpQkfG",
+        "text_slide_XcAKGP",
+        "text_slide_h7Ggxy"
+      ],
+      "disabled": true,
+      "name": "Image with text slider",
+      "settings": {
+        "image_width": "one-half",
+        "autoplay": true,
+        "autoplay_speed": 4,
+        "text_alignment": "text-left",
+        "layout": "",
+        "width": "wrapper--full",
+        "height": "screen-height-full",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_slideshow_fczQN7": {
+      "type": "section-slideshow",
+      "blocks": {
+        "image_khCmDF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Scorpi15dediciembre9898_670ad708-b6a6-44d7-9124-3228a03f9b92.jpg",
+            "image_link": "",
+            "title": "SCORPIFLEX™",
+            "heading_font_size": "heading-small",
+            "description": "Elasticidad avanzada que se adapta al movimiento natural del cuerpo.\nDiseñada para acompañarte durante turnos largos sin perder forma ni comodidad.",
+            "text_font_size": "body-small",
+            "first_button_text": "Ver uniformes",
+            "first_button_link": "",
+            "first_button_type": "btn--primary",
+            "first_button_size": "",
+            "first_button_style": "btn--solid",
+            "first_button_show_arrow": false,
+            "second_button_text": "",
+            "second_button_link": "",
+            "second_button_type": "btn--primary",
+            "second_button_size": "",
+            "second_button_style": "btn--solid",
+            "second_button_show_arrow": false,
+            "flex_align_desktop": "align--bottom-left-desktop",
+            "flex_align_mobile": "align--middle-center-mobile",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "",
+            "overlay_type": "opacity",
+            "heading_tag": "automatic"
+          }
+        },
+        "image_xdYGC7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BURDEO-HT-LT-4.jpg",
+            "image_link": "",
+            "title": "AEROWEAVE™",
+            "heading_font_size": "heading-small",
+            "description": "Trama respirable que favorece la circulación del aire y la evaporación de la humedad.\nLigera, fresca y pensada para el uso diario intensivo.",
+            "text_font_size": "body-small",
+            "first_button_text": "Ver uniformes",
+            "first_button_link": "",
+            "first_button_type": "btn--primary",
+            "first_button_size": "",
+            "first_button_style": "btn--solid",
+            "first_button_show_arrow": false,
+            "second_button_text": "",
+            "second_button_link": "",
+            "second_button_type": "btn--primary",
+            "second_button_size": "",
+            "second_button_style": "btn--solid",
+            "second_button_show_arrow": false,
+            "flex_align_desktop": "align--bottom-left-desktop",
+            "flex_align_mobile": "align--middle-center-mobile",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "",
+            "overlay_type": "opacity",
+            "heading_tag": "automatic"
+          }
+        },
+        "image_HGceWg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SCORPI_10_OCT2574.jpg",
+            "image_link": "",
+            "title": "SOFTCORE™",
+            "heading_font_size": "heading-small",
+            "description": "Textura ultrasuave al contacto con la piel.\nEquilibra confort y resistencia para una experiencia de uso superior.",
+            "text_font_size": "body-small",
+            "first_button_text": "Ver uniformes",
+            "first_button_link": "",
+            "first_button_type": "btn--primary",
+            "first_button_size": "",
+            "first_button_style": "btn--solid",
+            "first_button_show_arrow": false,
+            "second_button_text": "",
+            "second_button_link": "",
+            "second_button_type": "btn--primary",
+            "second_button_size": "",
+            "second_button_style": "btn--solid",
+            "second_button_show_arrow": false,
+            "flex_align_desktop": "align--bottom-left-desktop",
+            "flex_align_mobile": "align--middle-center-mobile",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "",
+            "overlay_type": "opacity",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_khCmDF",
+        "image_xdYGC7",
+        "image_HGceWg"
+      ],
+      "disabled": true,
+      "name": "Slideshow (Legacy)",
+      "settings": {
+        "transition": "wipe",
+        "show_arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "width": "wrapper--full",
+        "height": "screen-height-full",
+        "content_width": 50,
+        "mobile_height": "screen-height-full--mobile",
+        "color_scheme": "scheme-6",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_custom_content_qAPraY": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_RTF8EP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_18_691d25f9-5e3a-4c16-8ff5-3ca45be11dac.jpg",
+            "title": "Ventas Mayoristas",
+            "heading_font_size": "heading-large",
+            "text": "<p>Uniformes clínicos para equipos, clínicas y empresas.<\/p>",
+            "text_font_size": "body-medium",
+            "flex_align": "align--bottom-left",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#fcfcfc",
+            "overlay_type": "opacity",
+            "link_text": "ver mas",
+            "link": "",
+            "button_type": "btn--white",
+            "button_size": "btn--large",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_K7RVpf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_17.jpg",
+            "title": "Sé Distribuidor Scorpi",
+            "heading_font_size": "heading-large",
+            "text": "<p>Soluciones en uniformes clínicos al por mayor.<\/p>",
+            "text_font_size": "body-small",
+            "flex_align": "align--bottom-left",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#fcfcfc",
+            "overlay_type": "opacity",
+            "link_text": "ver mas",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "btn--large",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_RTF8EP",
+        "image_K7RVpf"
+      ],
+      "name": "Custom section",
+      "settings": {
+        "borders": false,
+        "gutters": false,
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "section_video_3bxKxQ",
+    "section_multicolumn_XLXf3y",
+    "section_multicolumn_GApjJ8",
+    "section_multicolumn_tnmPi3",
+    "section_multicolumn_7dHi9i",
+    "section_multicolumn_WFNLNc",
+    "section_multicolumn_YckWhE",
+    "section_multicolumn_P8THrN",
+    "section_multicolumn_iMGpix",
+    "section_multicolumn_YCH9QV",
+    "section_multicolumn_tgCQCy",
+    "section_double_slider_4DwEPD",
+    "section_double_slider_LX6tJ9",
+    "section_double_slider_bPHDfw",
+    "section_double_slider_JMTpKm",
+    "section_slideshow_fczQN7",
+    "section_custom_content_qAPraY"
+  ]
+}

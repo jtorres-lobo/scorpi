@@ -1,0 +1,25 @@
+{
+  "sections": {
+    "article": {
+      "type": "article",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {}
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "article"
+  ]
+}

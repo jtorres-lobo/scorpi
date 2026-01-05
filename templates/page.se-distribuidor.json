@@ -1,0 +1,237 @@
+{
+  "sections": {
+    "section_hero_DHCFeU": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_WyQWaf": {
+          "type": "heading",
+          "settings": {
+            "title": "Sé distribuidor Scorpi",
+            "heading_font_size": "heading-x-large",
+            "heading_tag": "automatic",
+            "padding_bottom": 8
+          }
+        },
+        "text_LMApFb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Forma parte de nuestra red de distribuidores y lleva uniformes clínicos de alto rendimiento a más profesionales. Calidad, diseño y respaldo comercial Scorpi.<\/p>",
+            "text_font_size": "body-large",
+            "padding_bottom": 8
+          }
+        }
+      },
+      "block_order": [
+        "heading_WyQWaf",
+        "text_LMApFb"
+      ],
+      "disabled": true,
+      "name": "Image banner",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Frame_10.jpg",
+        "link": "",
+        "width": "wrapper--full",
+        "height": "screen-height-one-half",
+        "flex_align_desktop": "align--middle-left-desktop",
+        "content_width": 50,
+        "mobile_image": "shopify:\/\/shop_images\/Frame_11.jpg",
+        "mobile_height": "four-fifty-height-hero--mobile",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "color_scheme": "scheme-6",
+        "show_text_background": false,
+        "overlay_type": "disabled",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_double_BJJr6W": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_DDEErc": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Diseñado para tu jornada",
+            "padding_bottom": 16
+          }
+        },
+        "heading_CTMzMy": {
+          "type": "heading",
+          "settings": {
+            "title": "Sé distribuidor Scorpi",
+            "heading_font_size": "heading-large",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_rNjKYW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Forma parte de nuestra red de distribuidores y lleva uniformes clínicos de alto rendimiento a más profesionales. Calidad, diseño y respaldo comercial Scorpi.<\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_DDEErc",
+        "heading_CTMzMy",
+        "text_rNjKYW"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/dd2782_sin_marco.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "layout": "",
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "contact_form_Wgj7Ti": {
+      "type": "contact-form",
+      "blocks": {
+        "text_VJQ6PT": {
+          "type": "text",
+          "settings": {
+            "title": "Nombre Completo",
+            "required": false
+          }
+        },
+        "email_3NfffH": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "required": true
+          }
+        },
+        "text_djWKcz": {
+          "type": "text",
+          "settings": {
+            "title": "Teléfono",
+            "required": false
+          }
+        },
+        "text_7P3qVa": {
+          "type": "text",
+          "settings": {
+            "title": "RUT",
+            "required": false
+          }
+        },
+        "text_JMnKnr": {
+          "type": "text",
+          "settings": {
+            "title": "Región",
+            "required": false
+          }
+        },
+        "text_PNhFpF": {
+          "type": "text",
+          "settings": {
+            "title": "Ciudad",
+            "required": false
+          }
+        },
+        "text_xzJmEq": {
+          "type": "text",
+          "settings": {
+            "title": "Comuna",
+            "required": false
+          }
+        },
+        "select_xGMBzq": {
+          "type": "select",
+          "settings": {
+            "title": "¿Vendes actualmente Uniformes Clínicos?",
+            "required": false,
+            "label-one": "Si",
+            "label-two": "NO",
+            "label-three": "",
+            "label-four": "",
+            "label-five": "",
+            "label-six": ""
+          }
+        },
+        "select_zzcHWC": {
+          "type": "select",
+          "settings": {
+            "title": "¿Tienes tienda física?",
+            "required": false,
+            "label-one": "Si",
+            "label-two": "NO",
+            "label-three": "",
+            "label-four": "",
+            "label-five": "",
+            "label-six": ""
+          }
+        },
+        "select_qizpKE": {
+          "type": "select",
+          "settings": {
+            "title": "¿Vendes por Internet?",
+            "required": false,
+            "label-one": "Si",
+            "label-two": "NO",
+            "label-three": "",
+            "label-four": "",
+            "label-five": "",
+            "label-six": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_VJQ6PT",
+        "email_3NfffH",
+        "text_djWKcz",
+        "text_7P3qVa",
+        "text_JMnKnr",
+        "text_PNhFpF",
+        "text_xzJmEq",
+        "select_xGMBzq",
+        "select_zzcHWC",
+        "select_qizpKE"
+      ],
+      "name": "Contact form",
+      "settings": {
+        "title": "Contáctanos para distribuir Scorpi",
+        "heading_font_size": "heading-small",
+        "terms": true,
+        "width": "wrapper--narrow",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "heading_tag": "automatic"
+      }
+    },
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "heading_font_size": "heading-medium",
+        "show_content": true,
+        "text_font_size": "body-small",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    }
+  },
+  "order": [
+    "section_hero_DHCFeU",
+    "section_double_BJJr6W",
+    "contact_form_Wgj7Ti",
+    "main-page"
+  ]
+}

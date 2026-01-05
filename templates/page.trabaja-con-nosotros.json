@@ -1,0 +1,622 @@
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "heading_font_size": "heading-medium",
+        "show_content": true,
+        "text_font_size": "body-small",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_hero_PtFQmG": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_PAeCmW": {
+          "type": "heading",
+          "settings": {
+            "title": "Personas que hacen la diferencia",
+            "heading_font_size": "heading-large",
+            "heading_tag": "automatic",
+            "padding_bottom": 8
+          }
+        },
+        "text_WXaMgt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En Scorpi creemos en el talento, la colaboración y el impacto positivo en cada jornada.<\/p><p><\/p>",
+            "text_font_size": "body-large",
+            "padding_bottom": 8
+          }
+        }
+      },
+      "block_order": [
+        "heading_PAeCmW",
+        "text_WXaMgt"
+      ],
+      "name": "Image banner",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES0621_2_1_2.jpg",
+        "link": "",
+        "width": "wrapper--full",
+        "height": "screen-height-two-thirds",
+        "flex_align_desktop": "align--bottom-right-desktop",
+        "content_width": 38,
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "color_scheme": "scheme-6",
+        "show_text_background": false,
+        "overlay_type": "disabled",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_rich_text_columns_PJErQ4": {
+      "type": "section-rich-text-columns",
+      "blocks": {
+        "heading_Hnr3Q4": {
+          "type": "heading",
+          "settings": {
+            "title": "Nuestra cultura",
+            "heading_font_size": "heading-large",
+            "position": "left",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_kntfjr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En Scorpi diseñamos más que uniformes: construimos una cultura basada en el respeto, la confianza y el trabajo bien hecho.<br\/><br\/>Creemos en equipos diversos, en el crecimiento constante y en crear un entorno donde cada persona pueda aportar desde lo que mejor sabe hacer.<\/p><p>Trabajamos con propósito, cuidando los detalles y valorando a quienes hacen posible cada producto.<\/p>",
+            "text_font_size": "body-medium",
+            "position": "right",
+            "padding_bottom": 16
+          }
+        },
+        "buttons_PffMEd": {
+          "type": "buttons",
+          "settings": {
+            "position": "right",
+            "button_text": "Explora nuestros productos",
+            "button_url": "shopify:\/\/collections\/all",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "button_secondary_text": "",
+            "button_secondary_url": "",
+            "button_secondary_type": "btn--primary",
+            "button_secondary_size": "",
+            "button_secondary_style": "btn--outline",
+            "show_secondary_arrow": false,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_Hnr3Q4",
+        "text_kntfjr",
+        "buttons_PffMEd"
+      ],
+      "disabled": true,
+      "name": "Rich text columns",
+      "settings": {
+        "left_column_width": 40,
+        "divider_width": 20,
+        "show_line": true,
+        "right_column_width": 40,
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_text_mobile": "text-left--mobile",
+        "color_scheme": "scheme-2",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "section_columns_ChcxMB": {
+      "type": "section-columns",
+      "blocks": {
+        "image_VT6DwY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES5353_1_a0a6ea27-e80e-4cf4-8ffd-1c2df27a1380.jpg",
+            "image_width": 75,
+            "image_shape": "normal",
+            "title": "Excelencia en los detalles",
+            "heading_font_size": "heading-small",
+            "text": "<p>Creemos que el impacto está en cómo se hacen las cosas. Valoramos a quienes cuidan el detalle, buscan mejorar constantemente y entienden que la calidad es parte de nuestra identidad.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_dep8hT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bg1_224ace1b-2bb4-468b-8093-b4b1c6f75b42.jpg",
+            "image_width": 75,
+            "image_shape": "normal",
+            "title": "Aprender y evolucionar",
+            "heading_font_size": "heading-small",
+            "text": "<p>Fomentamos una cultura de aprendizaje continuo. Nos movemos rápido, probamos, ajustamos y crecemos juntos, entendiendo los errores como parte natural del proceso.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_HQAENB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dd5283_bb91bd85-f75e-456c-a10b-ae4a540495f4.jpg",
+            "image_width": 75,
+            "image_shape": "normal",
+            "title": "Trabajo con propósito",
+            "heading_font_size": "heading-small",
+            "text": "<p>Construimos equipos basados en el respeto, la colaboración y la confianza. Creemos en un ambiente donde cada persona aporta desde su talento y se siente parte de algo más grande.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_VT6DwY",
+        "image_dep8hT",
+        "image_HQAENB"
+      ],
+      "custom_css": [
+        ".column__text {text-align: justify;}"
+      ],
+      "name": "Text columns with images",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 3,
+        "layout_mobile": "slider",
+        "color_scheme": "scheme-6",
+        "padding_top": 100,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_rich_text_3WbwJW": {
+      "type": "section-rich-text",
+      "blocks": {
+        "subheading_3RxwXQ": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Oportunidades abiertas",
+            "padding_bottom": 16
+          }
+        },
+        "heading_KkmBGg": {
+          "type": "heading",
+          "settings": {
+            "title": "Súmate al equipo scorpi",
+            "heading_font_size": "heading-large",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_VwmFAz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En Scorpi estamos en constante crecimiento y siempre buscamos personas con ganas de aprender, aportar y crecer junto a la marca.<br\/><\/p><p>Revisa los cargos disponibles y, si alguno conecta contigo, postula a través del formulario que encontrarás más abajo.<br\/><\/p><p>Si hoy no ves un rol exacto para ti, igual nos encantará conocerte.<\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_3RxwXQ",
+        "heading_KkmBGg",
+        "text_VwmFAz"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-center",
+        "width": "wrapper",
+        "color_scheme": "scheme-4",
+        "overlay_type": "disabled",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "section_double_izHFBp": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_e8J8Gn": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Nuestra forma de trabajar",
+            "padding_bottom": 16
+          }
+        },
+        "heading_PhaTNa": {
+          "type": "heading",
+          "settings": {
+            "title": "Crecer juntos, todos los días",
+            "heading_font_size": "heading-large",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_Khmtzf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nos mueve la mejora continua, el compromiso y la pasión por lo que hacemos.<br\/><br\/>Fomentamos un ambiente colaborativo, donde las ideas se escuchan y el aprendizaje es parte del camino.<br\/><br\/>Si buscas un lugar donde tu trabajo tenga impacto real, Scorpi puede ser para ti.<\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_e8J8Gn",
+        "heading_PhaTNa",
+        "text_Khmtzf"
+      ],
+      "disabled": true,
+      "name": "Image with text",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Wellness_Poleron_Azul_5.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "layout": "",
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_rich_text_columns_Vz3h99": {
+      "type": "section-rich-text-columns",
+      "blocks": {
+        "heading_NrWTDA": {
+          "type": "heading",
+          "settings": {
+            "title": "Ventas \/ Comercial",
+            "heading_font_size": "heading-small",
+            "position": "left",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_yT8hhN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ejecutivo\/a de Ventas Retail<\/p>",
+            "text_font_size": "body-large",
+            "position": "right",
+            "padding_bottom": 16
+          }
+        },
+        "text_Rwawgk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Key Account Junior (Clínicas e Instituciones)<\/p>",
+            "text_font_size": "body-large",
+            "position": "right",
+            "padding_bottom": 16
+          }
+        },
+        "text_Hrjaa9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Asistente Comercial<\/p>",
+            "text_font_size": "body-large",
+            "position": "right",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_NrWTDA",
+        "text_yT8hhN",
+        "text_Rwawgk",
+        "text_Hrjaa9"
+      ],
+      "name": "Rich text columns",
+      "settings": {
+        "left_column_width": 40,
+        "divider_width": 20,
+        "show_line": true,
+        "right_column_width": 40,
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_text_mobile": "text-left--mobile",
+        "color_scheme": "scheme-4",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "section_rich_text_columns_EF4AU8": {
+      "type": "section-rich-text-columns",
+      "blocks": {
+        "heading_pKEygz": {
+          "type": "heading",
+          "settings": {
+            "title": "Marketing",
+            "heading_font_size": "heading-small",
+            "position": "left",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_cPUQL6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Asistente de Marketing Digital<\/p>",
+            "text_font_size": "body-large",
+            "position": "right",
+            "padding_bottom": 16
+          }
+        },
+        "text_Je4RWV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Creador\/a de Contenido y Redes Sociales<\/p>",
+            "text_font_size": "body-large",
+            "position": "right",
+            "padding_bottom": 16
+          }
+        },
+        "text_HYDMja": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Performance Marketing Analyst (Junior)<\/p>",
+            "text_font_size": "body-large",
+            "position": "right",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_pKEygz",
+        "text_cPUQL6",
+        "text_Je4RWV",
+        "text_HYDMja"
+      ],
+      "name": "Rich text columns",
+      "settings": {
+        "left_column_width": 40,
+        "divider_width": 20,
+        "show_line": true,
+        "right_column_width": 40,
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_text_mobile": "text-left--mobile",
+        "color_scheme": "scheme-1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "section_rich_text_columns_eHFHnw": {
+      "type": "section-rich-text-columns",
+      "blocks": {
+        "heading_VbMLfL": {
+          "type": "heading",
+          "settings": {
+            "title": "Operaciones \/ Logística",
+            "heading_font_size": "heading-small",
+            "position": "left",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_ath8dt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Coordinador\/a de Operaciones<\/p>",
+            "text_font_size": "body-large",
+            "position": "right",
+            "padding_bottom": 16
+          }
+        },
+        "text_Wc3bQM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Asistente de Logística y Despacho<\/p>",
+            "text_font_size": "body-large",
+            "position": "right",
+            "padding_bottom": 16
+          }
+        },
+        "text_gPEt9P": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Planner de Inventario (Junior)<\/p>",
+            "text_font_size": "body-large",
+            "position": "right",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_VbMLfL",
+        "text_ath8dt",
+        "text_Wc3bQM",
+        "text_gPEt9P"
+      ],
+      "name": "Rich text columns",
+      "settings": {
+        "left_column_width": 40,
+        "divider_width": 20,
+        "show_line": true,
+        "right_column_width": 40,
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_text_mobile": "text-left--mobile",
+        "color_scheme": "scheme-4",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "section_rich_text_columns_HmGiQD": {
+      "type": "section-rich-text-columns",
+      "blocks": {
+        "heading_PaGJxW": {
+          "type": "heading",
+          "settings": {
+            "title": "Prácticas \/ Primer Empleo",
+            "heading_font_size": "heading-small",
+            "position": "left",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_hV334F": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Practicante de Diseño<\/p>",
+            "text_font_size": "body-large",
+            "position": "right",
+            "padding_bottom": 16
+          }
+        },
+        "text_c94pEX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Practicante de Marketing<\/p>",
+            "text_font_size": "body-large",
+            "position": "right",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_PaGJxW",
+        "text_hV334F",
+        "text_c94pEX"
+      ],
+      "name": "Rich text columns",
+      "settings": {
+        "left_column_width": 40,
+        "divider_width": 20,
+        "show_line": true,
+        "right_column_width": 40,
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_text_mobile": "text-left--mobile",
+        "color_scheme": "scheme-1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "contact_form_AgMpTC": {
+      "type": "contact-form",
+      "blocks": {
+        "text_pCKxxK": {
+          "type": "text",
+          "settings": {
+            "title": "Nombre Completo",
+            "required": false
+          }
+        },
+        "text_ybXJx7": {
+          "type": "text",
+          "settings": {
+            "title": "Teléfono",
+            "required": false
+          }
+        },
+        "email_Rn998d": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "required": true
+          }
+        },
+        "select_V3dNXr": {
+          "type": "select",
+          "settings": {
+            "title": "Área de interés \/ Postulación",
+            "required": false,
+            "label-one": "Selecciona una opción",
+            "label-two": "Diseño",
+            "label-three": "Marketing",
+            "label-four": "Ventas \/ Comercial",
+            "label-five": "Operaciones \/ Logística",
+            "label-six": "Prácticas \/ Primer empleo"
+          }
+        },
+        "body_88FnR4": {
+          "type": "body",
+          "settings": {
+            "title": "Mensaje",
+            "required": true
+          }
+        }
+      },
+      "block_order": [
+        "text_pCKxxK",
+        "text_ybXJx7",
+        "email_Rn998d",
+        "select_V3dNXr",
+        "body_88FnR4"
+      ],
+      "name": "Contact form",
+      "settings": {
+        "title": "¿Quieres ser parte de Scorpi?",
+        "heading_font_size": "heading-large",
+        "terms": true,
+        "width": "wrapper--narrow",
+        "color_scheme": "scheme-4",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "heading_tag": "automatic"
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "section_hero_PtFQmG",
+    "section_rich_text_columns_PJErQ4",
+    "section_columns_ChcxMB",
+    "section_rich_text_3WbwJW",
+    "section_double_izHFBp",
+    "section_rich_text_columns_Vz3h99",
+    "section_rich_text_columns_EF4AU8",
+    "section_rich_text_columns_eHFHnw",
+    "section_rich_text_columns_HmGiQD",
+    "contact_form_AgMpTC"
+  ]
+}

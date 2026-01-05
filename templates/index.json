@@ -1,0 +1,981 @@
+{
+  "sections": {
+    "section-slideshow-nested": {
+      "type": "section-slideshow-nested",
+      "blocks": {
+        "slide-image": {
+          "type": "_slide-image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bg1_eca21503-e4e0-4137-86c5-7b0d81fdc504.jpg",
+            "link": "",
+            "flex_align_desktop": "align--middle-left-desktop",
+            "flex_align_mobile": "align--middle-right-mobile",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#ffffff",
+            "overlay_type": "opacity"
+          },
+          "blocks": {
+            "heading": {
+              "type": "heading",
+              "settings": {
+                "text": "Comodidad <br>que acompaña",
+                "heading_font_size": "heading-x-large",
+                "heading_tag": "automatic",
+                "padding_bottom": 26
+              },
+              "blocks": {}
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+                "text": "Comodidad, movilidad y estilo para cada turno.",
+                "text_font_size": "body-x-large",
+                "padding_bottom": 26
+              },
+              "blocks": {}
+            },
+            "button_zzyKiN": {
+              "type": "button",
+              "name": "Single button",
+              "settings": {
+                "text": "Explorar Colección",
+                "link": "",
+                "type": "btn--white",
+                "size": "btn--large",
+                "style": "btn--solid",
+                "show_arrow": true,
+                "full_width": false,
+                "padding_bottom": 8
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "heading",
+            "text",
+            "button_zzyKiN"
+          ]
+        },
+        "slide_image_xK8Y69": {
+          "type": "_slide-image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bg2.jpg",
+            "link": "",
+            "flex_align_desktop": "align--middle-left-desktop",
+            "flex_align_mobile": "align--middle-right-mobile",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#ffffff",
+            "overlay_type": "opacity"
+          },
+          "blocks": {
+            "heading_bj9kpW": {
+              "type": "heading",
+              "settings": {
+                "text": "Comodidad <br>que acompaña",
+                "heading_font_size": "heading-x-large",
+                "heading_tag": "automatic",
+                "padding_bottom": 26
+              },
+              "blocks": {}
+            },
+            "text_g4wnL9": {
+              "type": "text",
+              "settings": {
+                "text": "Comodidad, movilidad y estilo para cada turno.",
+                "text_font_size": "body-x-large",
+                "padding_bottom": 26
+              },
+              "blocks": {}
+            },
+            "button_8xyit7": {
+              "type": "button",
+              "name": "Single button",
+              "settings": {
+                "text": "Explorar Colección",
+                "link": "",
+                "type": "btn--white",
+                "size": "btn--large",
+                "style": "btn--solid",
+                "show_arrow": true,
+                "full_width": false,
+                "padding_bottom": 8
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "heading_bj9kpW",
+            "text_g4wnL9",
+            "button_8xyit7"
+          ]
+        }
+      },
+      "block_order": [
+        "slide-image",
+        "slide_image_xK8Y69"
+      ],
+      "name": "Slideshow (Nested)",
+      "settings": {
+        "transition": "slide",
+        "show_arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 4,
+        "width": "wrapper--full",
+        "height": "screen-height-full",
+        "mobile_height": "screen-height-full--mobile",
+        "color_scheme": "scheme-5",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_text_row_BQ8nMr": {
+      "type": "section-text-row",
+      "blocks": {
+        "icon_9tQHPD": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-truck",
+            "icon_size": 30,
+            "icon_color": "",
+            "title": "Despacho a todo Chile",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Enviamos a todo el país con tiempos de entrega claros y seguimiento de tu pedido en cada etapa.<\/p>",
+            "text_font_size": "body-small",
+            "heading_tag": "automatic"
+          }
+        },
+        "icon_4haqPX": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-trophy",
+            "image": "shopify:\/\/shop_images\/noun-sewing-machine-7710908_1.svg",
+            "icon_size": 30,
+            "icon_color": "",
+            "title": "Servicio de Bordado Online",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Personaliza tus prendas con bordado profesional directamente desde nuestra tienda, de forma simple y segura.<\/p>",
+            "text_font_size": "body-small",
+            "heading_tag": "automatic"
+          }
+        },
+        "icon_dzBBiY": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-recycle",
+            "icon_size": 30,
+            "icon_color": "",
+            "title": "Cambios y Devoluciones Gratis",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Gestiona cambios o devoluciones de manera fácil y sin costo, dentro de los plazos establecidos.<\/p>",
+            "text_font_size": "body-small",
+            "heading_tag": "automatic"
+          }
+        },
+        "icon_94DV6Q": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-location",
+            "icon_size": 30,
+            "icon_color": "",
+            "title": "Retiro en Tienda sin Costo",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Compra online y retira gratis en tienda, ahorrando tiempo y costos de envío.<\/p>",
+            "text_font_size": "body-small",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "icon_9tQHPD",
+        "icon_4haqPX",
+        "icon_dzBBiY",
+        "icon_94DV6Q"
+      ],
+      "name": "Text columns with icons",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-small",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "icon_alignment": "icon--top",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 4,
+        "layout_mobile": "slider",
+        "color_scheme": "scheme-2",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_custom_content_BXUBD3": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_jHtnai": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mujer.jpg",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "text": "",
+            "text_font_size": "body-medium",
+            "flex_align": "align--middle-center",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#fcfcfc",
+            "overlay_type": "disabled",
+            "link_text": "Explorar Mujeres",
+            "link": "shopify:\/\/collections\/mujeres-page",
+            "button_type": "btn--white",
+            "button_size": "btn--large",
+            "button_style": "btn--outline",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_mMknGE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hombre.jpg",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "text": "",
+            "text_font_size": "body-medium",
+            "flex_align": "align--middle-center",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#fcfcfc",
+            "overlay_type": "disabled",
+            "link_text": "Explorar Hombres",
+            "link": "shopify:\/\/collections\/hombres-page",
+            "button_type": "btn--white",
+            "button_size": "btn--large",
+            "button_style": "btn--outline",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_jHtnai",
+        "image_mMknGE"
+      ],
+      "name": "Custom section",
+      "settings": {
+        "borders": false,
+        "gutters": false,
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_collection_Cj3Fzn": {
+      "type": "section-collection",
+      "name": "Featured collection",
+      "settings": {
+        "featured_collection": "todo-mujer-y-hombre",
+        "heading": "Novedades Scorpi",
+        "heading_font_size": "heading-x-small",
+        "description": "",
+        "text_font_size": "body-medium",
+        "layout": "inline",
+        "link_text": "Ver todos",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "layout_desktop": "slider",
+        "grid": 4,
+        "rows": 3,
+        "width": "wrapper",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_collection_YGDLpJ": {
+      "type": "section-collection",
+      "name": "Featured collection",
+      "settings": {
+        "featured_collection": "productos-con-descuento",
+        "heading": "Ofertas Scorpi",
+        "heading_font_size": "heading-x-small",
+        "description": "",
+        "text_font_size": "body-medium",
+        "layout": "inline",
+        "link_text": "Ver todos",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "layout_desktop": "slider",
+        "grid": 4,
+        "rows": 3,
+        "width": "wrapper",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_collection_links_spotlight_FRVBDr": {
+      "type": "section-collection-links-spotlight",
+      "blocks": {
+        "collection_8eT67B": {
+          "type": "collection",
+          "settings": {
+            "collection": "delantales",
+            "image": "shopify:\/\/shop_images\/Delantal_Mujer_1_4d3a61c6-2cb8-4a02-974c-7ce2be2853fa.jpg",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "button_text": "Shop now",
+            "button_link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "button_show_arrow": false,
+            "background_color": ""
+          }
+        },
+        "collection_kjf7Dz": {
+          "type": "collection",
+          "settings": {
+            "collection": "estampados",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "button_text": "Shop now",
+            "button_link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "button_show_arrow": false,
+            "background_color": ""
+          }
+        },
+        "collection_6TN6bh": {
+          "type": "collection",
+          "settings": {
+            "collection": "moms",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "button_text": "Shop now",
+            "button_link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "button_show_arrow": false,
+            "background_color": ""
+          }
+        },
+        "collection_YdJjeE": {
+          "type": "collection",
+          "settings": {
+            "collection": "aqua",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "button_text": "Shop now",
+            "button_link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "button_show_arrow": false,
+            "background_color": ""
+          }
+        },
+        "collection_YAjNpf": {
+          "type": "collection",
+          "settings": {
+            "collection": "scorpi-dynamic",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "button_text": "Shop now",
+            "button_link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "button_show_arrow": false,
+            "background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_8eT67B",
+        "collection_kjf7Dz",
+        "collection_6TN6bh",
+        "collection_YdJjeE",
+        "collection_YAjNpf"
+      ],
+      "name": "Collection links: spotlight",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-large",
+        "text": "",
+        "text_font_size": "body-medium",
+        "layout": "",
+        "width": "wrapper--full",
+        "height": "screen-height-full",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_text_with_products_qLfYF4": {
+      "type": "section-text-with-products",
+      "blocks": {
+        "image_xKWQQ4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hugeicons_party.svg",
+            "image_position": 6,
+            "aspect_ratio": 1,
+            "width": 80,
+            "mobile_aspect_ratio": 1,
+            "mobile_width": 60
+          }
+        },
+        "image_Vb3Udh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lucide_shopping-cart.svg",
+            "image_position": 4,
+            "aspect_ratio": 1,
+            "width": 80,
+            "mobile_aspect_ratio": 1,
+            "mobile_width": 60
+          }
+        },
+        "image_nFArbE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/material-symbols_trophy-outline-rounded.svg",
+            "image_position": 5,
+            "aspect_ratio": 1,
+            "width": 80,
+            "mobile_aspect_ratio": 1,
+            "mobile_width": 60
+          }
+        }
+      },
+      "block_order": [
+        "image_xKWQQ4",
+        "image_Vb3Udh",
+        "image_nFArbE"
+      ],
+      "disabled": true,
+      "name": "Text with products",
+      "settings": {
+        "subheading": "JOIN THE CLUB",
+        "heading": "Únete al Scorpi Club Compra Acumula Canjea",
+        "image_border_radius": 20,
+        "width": "wrapper--full-padded",
+        "text_font_size_px_desktop": 40,
+        "text_align_desktop": "text-center",
+        "text_font_size_px_mobile": 24,
+        "text_align_mobile": "text-left--mobile",
+        "color_scheme": "scheme-11",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "section_text_with_products_VieFHJ": {
+      "type": "section-text-with-products",
+      "blocks": {
+        "image_jcLTj8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dd5283_bb91bd85-f75e-456c-a10b-ae4a540495f4.jpg",
+            "image_position": 6,
+            "aspect_ratio": 1,
+            "width": 80,
+            "mobile_aspect_ratio": 1,
+            "mobile_width": 60
+          }
+        },
+        "image_EMDiYL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SCORPI_10_OCT5129_1.jpg",
+            "image_position": 4,
+            "aspect_ratio": 1,
+            "width": 80,
+            "mobile_aspect_ratio": 1,
+            "mobile_width": 60
+          }
+        },
+        "image_RGFTCq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_13.jpg",
+            "image_position": 5,
+            "aspect_ratio": 1,
+            "width": 80,
+            "mobile_aspect_ratio": 1,
+            "mobile_width": 60
+          }
+        }
+      },
+      "block_order": [
+        "image_jcLTj8",
+        "image_EMDiYL",
+        "image_RGFTCq"
+      ],
+      "name": "Text with products",
+      "settings": {
+        "subheading": "JOIN THE CLUB",
+        "heading": "Únete al Scorpi Club Compra Acumula ¡Canjea tus puntos!",
+        "image_border_radius": 20,
+        "width": "wrapper--full-padded",
+        "text_font_size_px_desktop": 40,
+        "text_align_desktop": "text-center",
+        "text_font_size_px_mobile": 24,
+        "text_align_mobile": "text-left--mobile",
+        "color_scheme": "scheme-11",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "section_look_bdinkQ": {
+      "type": "section-look",
+      "blocks": {
+        "product_QnDqTw": {
+          "type": "product",
+          "settings": {
+            "product": "top-hombre-looney-tunes",
+            "show_product_card": false,
+            "position_x": 56,
+            "position_y": 37
+          }
+        },
+        "product_TYdcc3": {
+          "type": "product",
+          "settings": {
+            "product": "pantalon-hombre-aqua",
+            "show_product_card": false,
+            "position_x": 71,
+            "position_y": 48
+          }
+        },
+        "product_UKCYU3": {
+          "type": "product",
+          "settings": {
+            "product": "calcetines-compresion",
+            "show_product_card": false,
+            "position_x": 39,
+            "position_y": 64
+          }
+        }
+      },
+      "block_order": [
+        "product_QnDqTw",
+        "product_TYdcc3",
+        "product_UKCYU3"
+      ],
+      "name": "Shop the look",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES0636_1.jpg",
+        "layout": "",
+        "title": "Shop the look",
+        "heading": "",
+        "heading_font_size": "heading-large",
+        "show_dots": true,
+        "products_per_row": "1",
+        "enable_slider": false,
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--outline",
+        "show_arrow": false,
+        "enable_aspect_ratio": true,
+        "image_aspect_ratio": 1,
+        "color_scheme": "",
+        "dot_color": "rgba(0,0,0,0)",
+        "dot_background": "rgba(0,0,0,0)",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "heading_tag": "automatic"
+      }
+    },
+    "176608977687d86975": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_23fa3a4_RDNcJw": {
+          "type": "ai_gen_block_23fa3a4",
+          "settings": {
+            "heading": "Nuestros colores más vendidos",
+            "heading_size": 28,
+            "heading_color": "#000000",
+            "heading_spacing": 40,
+            "image_1": "shopify:\/\/shop_images\/Fucsia.png",
+            "link_1": "shopify:\/\/collections\/all",
+            "new_tab_1": false,
+            "link_label_1": "",
+            "image_2": "shopify:\/\/shop_images\/Celeste.png",
+            "link_2": "shopify:\/\/collections\/all",
+            "new_tab_2": false,
+            "link_label_2": "",
+            "image_3": "shopify:\/\/shop_images\/Military.png",
+            "link_3": "shopify:\/\/collections\/all",
+            "new_tab_3": false,
+            "link_label_3": "",
+            "image_4": "shopify:\/\/shop_images\/Caribbean.png",
+            "link_4": "shopify:\/\/collections\/all",
+            "new_tab_4": false,
+            "link_label_4": "",
+            "image_5": "shopify:\/\/shop_images\/Gris_Claro.png",
+            "link_5": "shopify:\/\/collections\/all",
+            "new_tab_5": false,
+            "link_label_5": "",
+            "image_6": "shopify:\/\/shop_images\/Sunrise.png",
+            "link_6": "shopify:\/\/collections\/all",
+            "new_tab_6": false,
+            "link_label_6": "",
+            "image_7": "shopify:\/\/shop_images\/Morado.png",
+            "link_7": "shopify:\/\/collections\/all",
+            "new_tab_7": false,
+            "link_label_7": "",
+            "image_8": "shopify:\/\/shop_images\/Coral_87b0dd79-f002-4219-bd73-f10aa6196d44.png",
+            "link_8": "shopify:\/\/collections\/all",
+            "new_tab_8": false,
+            "link_label_8": "",
+            "image_9": "shopify:\/\/shop_images\/Azul_Rey.png",
+            "link_9": "shopify:\/\/collections\/all",
+            "new_tab_9": false,
+            "link_label_9": "",
+            "image_10": "shopify:\/\/shop_images\/Verde.png",
+            "link_10": "",
+            "new_tab_10": false,
+            "link_label_10": "",
+            "image_11": "shopify:\/\/shop_images\/Beige.png",
+            "link_11": "",
+            "new_tab_11": false,
+            "link_label_11": "",
+            "link_12": "",
+            "new_tab_12": false,
+            "link_label_12": "",
+            "link_13": "",
+            "new_tab_13": false,
+            "link_label_13": "",
+            "link_14": "",
+            "new_tab_14": false,
+            "link_label_14": "",
+            "link_15": "",
+            "new_tab_15": false,
+            "link_label_15": "",
+            "link_16": "",
+            "new_tab_16": false,
+            "link_label_16": "",
+            "link_17": "",
+            "new_tab_17": false,
+            "link_label_17": "",
+            "link_18": "",
+            "new_tab_18": false,
+            "link_label_18": "",
+            "link_19": "",
+            "new_tab_19": false,
+            "link_label_19": "",
+            "link_20": "",
+            "new_tab_20": false,
+            "link_label_20": "",
+            "show_arrows": true,
+            "arrow_color": "#000000",
+            "image_size": 200,
+            "image_spacing": 30,
+            "border_radius": 0,
+            "background_color": "#ffffff",
+            "animation_speed": 45,
+            "section_padding": 60,
+            "desktop_width_percent": 100
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_23fa3a4_RDNcJw"
+      ],
+      "settings": {}
+    },
+    "section_custom_content_UBtcEc": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_AFPYHp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_18_691d25f9-5e3a-4c16-8ff5-3ca45be11dac.jpg",
+            "title": "Ventas Mayoristas",
+            "heading_font_size": "heading-large",
+            "text": "<p>Uniformes clínicos para equipos, clínicas y empresas.<\/p>",
+            "text_font_size": "body-medium",
+            "flex_align": "align--bottom-left",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#fcfcfc",
+            "overlay_type": "opacity",
+            "link_text": "ver mas",
+            "link": "",
+            "button_type": "btn--white",
+            "button_size": "btn--large",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_dydchX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_17.jpg",
+            "title": "Sé Distribuidor Scorpi",
+            "heading_font_size": "heading-large",
+            "text": "<p>Soluciones en uniformes clínicos al por mayor.<\/p>",
+            "text_font_size": "body-small",
+            "flex_align": "align--bottom-left",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#fcfcfc",
+            "overlay_type": "opacity",
+            "link_text": "ver mas",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "btn--large",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_AFPYHp",
+        "image_dydchX"
+      ],
+      "name": "Custom section",
+      "settings": {
+        "borders": false,
+        "gutters": false,
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_double_FLzxAX": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_BKKWUE": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Personalización profesional",
+            "padding_bottom": 16
+          }
+        },
+        "heading_fcWBGt": {
+          "type": "heading",
+          "settings": {
+            "title": "Bordado a tu medida",
+            "heading_font_size": "heading-large",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_rYmBdD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Personaliza tus uniformes con bordado de alta calidad. Logotipos, nombres y detalles durables que refuerzan la identidad de tu equipo y proyectan una imagen profesional en cada jornada.<\/p><h3><\/h3>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        },
+        "buttons_tjAdmn": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Contáctanos",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_BKKWUE",
+        "heading_fcWBGt",
+        "text_rYmBdD",
+        "buttons_tjAdmn"
+      ],
+      "disabled": true,
+      "name": "Image with text",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES5353_1_a0a6ea27-e80e-4cf4-8ffd-1c2df27a1380.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "layout": "",
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_hero_TmFwkr": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_XDQqKP": {
+          "type": "heading",
+          "settings": {
+            "title": "Bordado a tu medida",
+            "heading_font_size": "heading-x-large",
+            "heading_tag": "automatic",
+            "padding_bottom": 8
+          }
+        },
+        "text_ygrPEM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Personaliza tus uniformes con bordado de alta calidad. Logotipos, nombres y detalles durables que refuerzan la identidad de tu equipo y proyectan una imagen profesional en cada jornada.<\/p><h3><\/h3>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 8
+          }
+        },
+        "button_HbNK4b": {
+          "type": "button",
+          "settings": {
+            "link_text": "Contáctanos",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "full_width": false,
+            "padding_bottom": 8
+          }
+        }
+      },
+      "block_order": [
+        "heading_XDQqKP",
+        "text_ygrPEM",
+        "button_HbNK4b"
+      ],
+      "name": "Image banner",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/SCORPI_10OCT6757.jpg",
+        "link": "",
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "flex_align_desktop": "align--bottom-left-desktop",
+        "content_width": 50,
+        "mobile_height": "screen-height-full--mobile",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "color_scheme": "scheme-6",
+        "show_text_background": false,
+        "overlay_type": "opacity",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_columns_7YqBGa": {
+      "type": "section-columns",
+      "blocks": {
+        "image_DNQYBK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dd5257.jpg",
+            "image_width": 100,
+            "image_shape": "normal",
+            "title": "Ventas Mayoristas",
+            "heading_font_size": "heading-small",
+            "text": "<p>Uniformes clínicos para equipos completos, clínicas y organizaciones. Precios preferenciales y asesoría dedicada según tus necesidades.<\/p><h3><\/h3>",
+            "text_font_size": "body-medium",
+            "button_text": "Ver más",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_hTckin": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dd8962.jpg",
+            "image_width": 100,
+            "image_shape": "normal",
+            "title": "Sé Distribuidor Scorpi",
+            "heading_font_size": "heading-small",
+            "text": "<p>Lleva nuestros uniformes a tu tienda y accede a beneficios exclusivos, soporte comercial y productos de alta demanda.<\/p><h3><\/h3>",
+            "text_font_size": "body-medium",
+            "button_text": "Ver más",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_DNQYBK",
+        "image_hTckin"
+      ],
+      "disabled": true,
+      "name": "Text columns with images",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "align_heading": "text-center",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-center",
+        "layout": "grid",
+        "grid": 2,
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    }
+  },
+  "order": [
+    "section-slideshow-nested",
+    "section_text_row_BQ8nMr",
+    "section_custom_content_BXUBD3",
+    "section_collection_Cj3Fzn",
+    "section_collection_YGDLpJ",
+    "section_collection_links_spotlight_FRVBDr",
+    "section_text_with_products_qLfYF4",
+    "section_text_with_products_VieFHJ",
+    "section_look_bdinkQ",
+    "176608977687d86975",
+    "section_custom_content_UBtcEc",
+    "section_double_FLzxAX",
+    "section_hero_TmFwkr",
+    "section_columns_7YqBGa"
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "heading_font_size": "heading-medium",
+        "show_content": true,
+        "text_font_size": "body-small",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_hero_bt8iHT": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_7nHi67": {
+          "type": "heading",
+          "settings": {
+            "title": "¿En qué podemos ayudarte?",
+            "heading_font_size": "heading-large",
+            "heading_tag": "automatic",
+            "padding_bottom": 8
+          }
+        },
+        "text_cAiWDP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Estamos aquí para acompañarte antes, durante y después de tu compra.<br\/><br\/>Encuentra respuestas rápidas o contáctanos directamente.<\/p>",
+            "text_font_size": "body-large",
+            "padding_bottom": 8
+          }
+        }
+      },
+      "block_order": [
+        "heading_7nHi67",
+        "text_cAiWDP"
+      ],
+      "name": "Image banner",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Frame_18.jpg",
+        "link": "",
+        "width": "wrapper--full",
+        "height": "screen-height-two-thirds",
+        "flex_align_desktop": "align--bottom-left-desktop",
+        "content_width": 50,
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "color_scheme": "scheme-6",
+        "show_text_background": false,
+        "overlay_type": "disabled",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_multicolumn_w8y8fq": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "image_PWLDwH": {
+          "type": "image",
+          "settings": {
+            "column_width": 33,
+            "image": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES9587_802ea900-b577-4b7f-b992-c4c47c02efaf.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Pedidos y envíos",
+            "heading_font_size": "heading-small",
+            "text": "<p>Consulta el estado de tu pedido, tiempos de despacho y cobertura a todo Chile.<\/p><p><\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "Seguir mi pedido",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_EQcC4J": {
+          "type": "image",
+          "settings": {
+            "column_width": 33,
+            "image": "shopify:\/\/shop_images\/mujer.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Cambios y devoluciones",
+            "heading_font_size": "heading-small",
+            "text": "<p>Revisa nuestras políticas y gestiona tu cambio o devolución de forma simple.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "Ir a cambios y devoluciones",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_NEi4Hi": {
+          "type": "image",
+          "settings": {
+            "column_width": 33,
+            "image": "shopify:\/\/shop_images\/hombre.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Tallas y ajuste",
+            "heading_font_size": "heading-small",
+            "text": "<p>Encuentra tu talla ideal, revisa guías de medidas y consejos de calce para cada tipo de uniforme.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "Ver guias de tallas",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_Jmfpc4": {
+          "type": "image",
+          "settings": {
+            "column_width": 33,
+            "image": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES0636_1_add619d4-6783-4b8c-9766-53c0fe713345.jpg",
+            "image_width": 100,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Servicio de bordado",
+            "heading_font_size": "heading-small",
+            "text": "<p>Personaliza tus uniformes con el logo o nombre de tu equipo.<br\/>Conoce plazos, condiciones y recomendaciones antes de comprar.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "Contáctanos",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_6F7jCR": {
+          "type": "image",
+          "settings": {
+            "column_width": 33,
+            "image": "shopify:\/\/shop_images\/Frame_28.png",
+            "image_width": 100,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Scorpi Club",
+            "heading_font_size": "heading-small",
+            "text": "<p>Acumula puntos por tus compras y canjéalos por descuentos exclusivos.<br\/><br\/>Revisa cómo ganar, usar y aprovechar tus beneficios.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "IR A SCORPI CLUB",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_A6GFxr": {
+          "type": "image",
+          "settings": {
+            "column_width": 33,
+            "image": "shopify:\/\/shop_images\/Interior_Scorpi_Tobalaba.webp",
+            "image_width": 100,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Nuestras tiendas",
+            "heading_font_size": "heading-small",
+            "text": "<p>Encuentra nuestras tiendas físicas y puntos de venta autorizados.<br\/><br\/>Revisa direcciones, horarios y disponibilidad de productos.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "Ver guias de tallas",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_PWLDwH",
+        "image_EQcC4J",
+        "image_NEi4Hi",
+        "image_Jmfpc4",
+        "image_6F7jCR",
+        "image_A6GFxr"
+      ],
+      "name": "Multi column",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "contact_form_W7McpD": {
+      "type": "contact-form",
+      "blocks": {
+        "text_cUpPDq": {
+          "type": "text",
+          "settings": {
+            "title": "Nombre Completo",
+            "required": true
+          }
+        },
+        "text_LWnfAe": {
+          "type": "text",
+          "settings": {
+            "title": "Teléfono",
+            "required": true
+          }
+        },
+        "text_gTwwLp": {
+          "type": "text",
+          "settings": {
+            "title": "RUT",
+            "required": false
+          }
+        },
+        "email_fFx8kG": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "required": true
+          }
+        },
+        "body_qNzhPV": {
+          "type": "body",
+          "settings": {
+            "title": "Message",
+            "required": true
+          }
+        },
+        "form_heading_PXtbQa": {
+          "type": "formHeading",
+          "settings": {
+            "title": "Optional:"
+          }
+        },
+        "checkbox_Nft4TK": {
+          "type": "checkbox",
+          "settings": {
+            "title": "This is urgent",
+            "required": false
+          }
+        },
+        "select_zj4T6U": {
+          "type": "select",
+          "settings": {
+            "title": "Selecciona una opción",
+            "required": false,
+            "label-one": "Elige una opción",
+            "label-two": "Pedido \/ despacho",
+            "label-three": "Cambios y devoluciones",
+            "label-four": "Producto",
+            "label-five": "Compras mayoristas",
+            "label-six": "Instituciones de salud"
+          }
+        }
+      },
+      "block_order": [
+        "text_cUpPDq",
+        "text_LWnfAe",
+        "text_gTwwLp",
+        "email_fFx8kG",
+        "body_qNzhPV",
+        "form_heading_PXtbQa",
+        "checkbox_Nft4TK",
+        "select_zj4T6U"
+      ],
+      "name": "Contact form",
+      "settings": {
+        "title": "Contáctanos",
+        "heading_font_size": "heading-large",
+        "terms": true,
+        "width": "wrapper--narrow",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_accordion_group_j6yWyn": {
+      "type": "section-accordion-group",
+      "blocks": {
+        "heading_RQeyj6": {
+          "type": "heading",
+          "settings": {
+            "title": "Preguntas Frecuentes"
+          }
+        },
+        "question_aBe3pe": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Cuánto demora el despacho de mi pedido?",
+            "content": "<p>Los pedidos se procesan dentro de 1 a 3 días hábiles. Los tiempos de entrega pueden variar según tu ubicación, pero despachamos a todo Chile.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_VjPzzB": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Cómo puedo hacer un cambio o devolución?",
+            "content": "<p>Puedes solicitar un cambio o devolución escribiéndonos a través de este formulario o revisando nuestra sección de <strong>Cambios y devoluciones<\/strong>. Nuestro equipo te guiará paso a paso.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_8mU6Dy": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Puedo cambiar la talla de un producto?",
+            "content": "<p>Sí, siempre que el producto esté sin uso y con sus etiquetas originales. Te recomendamos revisar nuestra guía de tallas antes de comprar.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_9dFkwC": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Hacen ventas al por mayor o para instituciones?",
+            "content": "<p>Sí. Trabajamos con clínicas, centros médicos e instituciones de salud. Contáctanos indicando el volumen aproximado y tipo de productos que necesitas.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_JPPXQV": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Ofrecen bordado o personalización?",
+            "content": "<p>Sí, contamos con servicio de bordado para compras institucionales o mayoristas. Los tiempos de entrega pueden variar según el pedido.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_7CrFcR": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Dónde puedo ver el estado de mi pedido?",
+            "content": "<p>Una vez despachado, recibirás un correo con el número de seguimiento. Si necesitas ayuda adicional, escríbenos por este formulario.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_KjENJV": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Qué hago si recibí un producto con falla?",
+            "content": "<p>Si tu producto presenta una falla de fabricación, contáctanos lo antes posible. Nuestro equipo evaluará el caso y te ofrecerá una solución.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_fzKAEr": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Cuánto tiempo tardan en responder?",
+            "content": "<p>Respondemos normalmente dentro de <strong>24 a 48 horas hábiles<\/strong>, de lunes a viernes.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_RQeyj6",
+        "question_aBe3pe",
+        "question_VjPzzB",
+        "question_8mU6Dy",
+        "question_9dFkwC",
+        "question_JPPXQV",
+        "question_7CrFcR",
+        "question_KjENJV",
+        "question_fzKAEr"
+      ],
+      "name": "Accordion group",
+      "settings": {
+        "heading_font_size": "heading-small",
+        "question_font_size": "heading-mini",
+        "width": "wrapper",
+        "columns": "1",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 94
+      }
+    },
+    "section_custom_content_pFnFQy": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_d9Dia6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_18_691d25f9-5e3a-4c16-8ff5-3ca45be11dac.jpg",
+            "title": "Ventas Mayoristas",
+            "heading_font_size": "heading-large",
+            "text": "<p>Uniformes clínicos para equipos, clínicas y empresas.<\/p>",
+            "text_font_size": "body-medium",
+            "flex_align": "align--bottom-left",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#fcfcfc",
+            "overlay_type": "opacity",
+            "link_text": "ver mas",
+            "link": "",
+            "button_type": "btn--white",
+            "button_size": "btn--large",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image_Rn8ci6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_17.jpg",
+            "title": "Sé Distribuidor Scorpi",
+            "heading_font_size": "heading-large",
+            "text": "<p>Soluciones en uniformes clínicos al por mayor.<\/p>",
+            "text_font_size": "body-small",
+            "flex_align": "align--bottom-left",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#fcfcfc",
+            "overlay_type": "opacity",
+            "link_text": "ver mas",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "btn--large",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_d9Dia6",
+        "image_Rn8ci6"
+      ],
+      "name": "Custom section",
+      "settings": {
+        "borders": false,
+        "gutters": false,
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "section_hero_bt8iHT",
+    "section_multicolumn_w8y8fq",
+    "contact_form_W7McpD",
+    "section_accordion_group_j6yWyn",
+    "section_custom_content_pFnFQy"
+  ]
+}

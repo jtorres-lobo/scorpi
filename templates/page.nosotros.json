@@ -1,0 +1,449 @@
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "heading_font_size": "heading-medium",
+        "show_content": true,
+        "text_font_size": "body-small",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_video_bMT6XA": {
+      "type": "section-video",
+      "name": "Video",
+      "settings": {
+        "video": "shopify:\/\/files\/videos\/BANNER_1.mp4",
+        "show_video_popup": false,
+        "video_popup_social": "",
+        "title": "Sobre Scorpi",
+        "heading_font_size": "heading-x-large",
+        "text": "",
+        "text_font_size": "body-large",
+        "flex_align": "align--middle-center",
+        "link_text": "",
+        "link": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "desktop_height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "width": "wrapper--full",
+        "color_scheme": "scheme-6",
+        "show_text_background": false,
+        "color": "",
+        "overlay_type": "disabled",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_double_slider_BHN93V": {
+      "type": "section-double-slider",
+      "blocks": {
+        "text_slide_yyHWrt": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Desde el trabajo real",
+            "title": "Diseñados para jornadas exigentes",
+            "heading_font_size": "heading-large",
+            "text": "<p>Creamos uniformes clínicos funcionales, cómodos y resistentes, pensados para acompañarte durante todo el día.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES5353_1_a0a6ea27-e80e-4cf4-8ffd-1c2df27a1380.jpg",
+            "heading_tag": "automatic"
+          }
+        },
+        "text_slide_nKmT4X": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Pensado para largas jornadas",
+            "title": "Comodidad desde el primer uso",
+            "heading_font_size": "heading-large",
+            "text": "<p>Telas técnicas que se adaptan al movimiento, mantienen su forma y reducen la fatiga sin perder estilo profesional.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES6475_1_db78457c-9fc5-4efd-947f-3e49fe898a13.jpg",
+            "heading_tag": "automatic"
+          }
+        },
+        "text_slide_zNRLmX": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "Profesionales que confían",
+            "title": "Elegidos por profesionales de la salud",
+            "heading_font_size": "heading-large",
+            "text": "<p>Miles de profesionales confían en Scorpi por su rendimiento, durabilidad y diseño en el día a día clínico.<\/p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES5402_1.jpg",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_yyHWrt",
+        "text_slide_nKmT4X",
+        "text_slide_zNRLmX"
+      ],
+      "disabled": true,
+      "name": "Image with text slider",
+      "settings": {
+        "image_width": "one-half",
+        "autoplay": true,
+        "autoplay_speed": 4,
+        "text_alignment": "text-left",
+        "layout": "is-reversed",
+        "width": "wrapper--full",
+        "height": "screen-height-full",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "scheme-6",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_rich_text_columns_Taqihc": {
+      "type": "section-rich-text-columns",
+      "blocks": {
+        "heading_3EECMD": {
+          "type": "heading",
+          "settings": {
+            "title": "Uniformes diseñados para el trabajo real",
+            "heading_font_size": "heading-large",
+            "position": "left",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_HdYPgX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En Scorpi diseñamos uniformes clínicos pensados para acompañarte en cada jornada. Combinamos funcionalidad, comodidad y diseño para crear prendas que respondan a las exigencias reales del día a día en la salud.<br\/><\/p><p>Trabajamos con telas técnicas, calces estudiados y detalles funcionales que permiten moverte con libertad, mantener una imagen profesional y rendir durante turnos largos. Cada prenda está creada para durar, adaptarse a tu rutina y hacer tu trabajo un poco más cómodo.<\/p>",
+            "text_font_size": "body-medium",
+            "position": "right",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_3EECMD",
+        "text_HdYPgX"
+      ],
+      "name": "Rich text columns",
+      "settings": {
+        "left_column_width": 40,
+        "divider_width": 20,
+        "show_line": true,
+        "right_column_width": 40,
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_text_mobile": "text-left--mobile",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "section_double_yPfJrC": {
+      "type": "section-double",
+      "blocks": {
+        "heading_ikXiU8": {
+          "type": "heading",
+          "settings": {
+            "title": "Visión",
+            "heading_font_size": "heading-large",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_Pm3Mh3": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Elevar la experiencia de vestir en salud<br\/><\/strong>Ser una marca referente en uniformes clínicos en Latinoamérica, reconocida por su diseño funcional, calidad constante y cercanía con la comunidad médica, mejorando la experiencia diaria de quienes trabajan cuidando a otros.<\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        },
+        "buttons_CYgm4U": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_ikXiU8",
+        "text_Pm3Mh3",
+        "buttons_CYgm4U"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES0621_2_1_2.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "layout": "",
+        "width": "wrapper--full",
+        "height": "screen-height-one-third",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_double_e7b4Fq": {
+      "type": "section-double",
+      "blocks": {
+        "heading_QKVMw8": {
+          "type": "heading",
+          "settings": {
+            "title": "Misión",
+            "heading_font_size": "heading-large",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_rkV3BX": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Diseñar uniformes que acompañan jornadas reales<br\/><\/strong>Creamos uniformes clínicos funcionales, cómodos y durables, pensados para acompañar a profesionales de la salud en su día a día. Escuchamos sus necesidades reales y las transformamos en prendas que aportan comodidad, confianza y rendimiento en cada turno.<\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_QKVMw8",
+        "text_rkV3BX"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/Interior_Scorpi_Tobalaba.webp",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "layout": "is-reversed",
+        "width": "wrapper--full",
+        "height": "screen-height-one-third",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "scheme-6",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_double_cktX6B": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_eNUCdc": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Nuestra Misión",
+            "padding_bottom": 16
+          }
+        },
+        "heading_WHPJ7A": {
+          "type": "heading",
+          "settings": {
+            "title": "Elevar el estándar del uniforme clínico",
+            "heading_font_size": "heading-large",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_jDWNbH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Creemos que el uniforme no es solo una prenda: es parte de tu identidad profesional. Por eso trabajamos constantemente en mejorar telas, fits y procesos, buscando siempre ofrecer una experiencia superior en cada uso.<\/p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_eNUCdc",
+        "heading_WHPJ7A",
+        "text_jDWNbH"
+      ],
+      "disabled": true,
+      "name": "Image with text",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/SCORPI_LOONEY_TUNES9587.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "layout": "",
+        "width": "wrapper--full",
+        "height": "screen-height-full",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "section_accordion_group_LBcnfc": {
+      "type": "section-accordion-group",
+      "blocks": {
+        "heading_4FW3Tz": {
+          "type": "heading",
+          "settings": {
+            "title": "Preguntas Frecuentes"
+          }
+        },
+        "question_d99XcF": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Qué diferencia a Scorpi de otros uniformes clínicos?",
+            "content": "<p>Nuestro enfoque está en la funcionalidad real: telas técnicas, calces cómodos y diseño pensado para el trabajo diario.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_BQJBBN": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Scorpi trabaja con instituciones y equipos completos?",
+            "content": "<p>Sí. Ofrecemos soluciones para clínicas, centros médicos e instituciones, incluyendo compras por volumen y bordado personalizado.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_8Mitch": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "¿Puedo personalizar los uniformes?",
+            "content": "<p>Contamos con servicio de bordado para instituciones y profesionales que buscan un uniforme alineado a su identidad.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_4FW3Tz",
+        "question_d99XcF",
+        "question_BQJBBN",
+        "question_8Mitch"
+      ],
+      "name": "Accordion group",
+      "settings": {
+        "heading_font_size": "heading-x-small",
+        "question_font_size": "heading-mini",
+        "width": "wrapper",
+        "columns": "1",
+        "color_scheme": "scheme-3",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "section_hero_pLURTM": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_FKMwzp": {
+          "type": "heading",
+          "settings": {
+            "title": "Diseñado para tu jornada",
+            "heading_font_size": "heading-large",
+            "heading_tag": "automatic",
+            "padding_bottom": 8
+          }
+        },
+        "text_mhWDjE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Uniformes que acompañan tu ritmo, turno tras turno.<\/p>",
+            "text_font_size": "body-large",
+            "padding_bottom": 8
+          }
+        },
+        "button_QeLqW3": {
+          "type": "button",
+          "settings": {
+            "link_text": "Ver productos",
+            "link": "shopify:\/\/collections\/all",
+            "button_type": "btn--primary",
+            "button_size": "btn--large",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "full_width": false,
+            "padding_bottom": 8
+          }
+        }
+      },
+      "block_order": [
+        "heading_FKMwzp",
+        "text_mhWDjE",
+        "button_QeLqW3"
+      ],
+      "name": "Image banner",
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/dd5257_fdd35b87-77f5-4076-9878-9bf00ae3d824.jpg",
+        "link": "",
+        "width": "wrapper--full",
+        "height": "screen-height-full",
+        "flex_align_desktop": "align--bottom-left-desktop",
+        "content_width": 45,
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "color_scheme": "scheme-6",
+        "show_text_background": false,
+        "overlay_type": "opacity",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "section_video_bMT6XA",
+    "section_double_slider_BHN93V",
+    "section_rich_text_columns_Taqihc",
+    "section_double_yPfJrC",
+    "section_double_e7b4Fq",
+    "section_double_cktX6B",
+    "section_accordion_group_LBcnfc",
+    "section_hero_pLURTM"
+  ]
+}
