@@ -254,6 +254,10 @@
               </product-thumbs>
             {%- endif -%}
 
+            {% render 
+              'color-gallery', product: product
+            -%}
+
             {%- comment -%} Thumbnails template for Photoswipe {%- endcomment -%}
             {%- if section.settings.enable_zoom -%}
               <template data-pswp-thumbs-template>
